@@ -1,0 +1,36 @@
+.wrap_user_info {
+  float: right; }
+  @media (max-width: 767px) {
+    .wrap_user_info {
+      float: left;
+      clear: both; } }
+
+.header_user_info {
+  float: right;
+  padding: 9px 3px 10px; }
+  .header_user_info a {
+    font: 400 11px/15px "Roboto", sans-serif;
+    color: #777777;
+    display: block;
+    padding: 3px 0;
+    cursor: pointer;
+    text-transform: uppercase; }
+    @media (max-width: 479px) {
+      .header_user_info a {
+        font-size: 10px; } }
+    .header_user_info a:hover, .header_user_info a.active {
+      color: white; }
+  .header_user_info + .header_user_info {
+    border-right: none;
+    padding-right: 19px; }
+
+.user_info {
+  text-align: right;
+  margin: 20px 0 0 0; }
+  .user_info li {
+    display: inline-block;
+    padding-right: 15px; }
+    .user_info li a {
+      text-decoration: none; }
+      .user_info li a:hover {
+        text-decoration: underline; }

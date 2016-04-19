@@ -1,0 +1,46 @@
+@import "../../_theme_variables";
+
+.wrap_user_info {
+	float: right;
+	@media (max-width: $screen-xs-max) { 
+		float: left;
+		clear: both;
+	}
+}
+.header_user_info {
+	float: right;
+	padding: 9px 3px 10px;
+	a {
+		font: 400 11px/15px $font-custom-text;
+		color: $base-body-color;
+		display: block;
+		padding: 3px 0;
+		cursor: pointer;
+		text-transform: uppercase;
+		@media (max-width: $screen-xs - 1) {
+			font-size: 10px;
+		}
+		&:hover, &.active {
+			color: $light-text-color;
+		}
+	}
+	&+ .header_user_info {
+		border-right:none;	
+		padding-right: 19px;
+	}
+}
+
+.user_info {
+	text-align:right;
+	margin:20px 0 0 0;
+	li {
+		display:inline-block;
+		padding-right:15px;
+		a {
+			text-decoration: none;
+			&:hover {
+				text-decoration:underline;	
+			}
+		}
+	}
+}

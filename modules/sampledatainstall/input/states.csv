@@ -1,0 +1,313 @@
+"State ID";"Country ID";"Zone ID";"ISO Code";Name;Active
+233;111;3;AC;Aceh;1
+123;10;1;AG;Agrigento;1
+54;145;2;AGS;Aguascalientes;1
+266;11;3;23;Aichi;1
+267;11;3;05;Akita;1
+1;21;2;AL;Alabama;1
+2;21;2;AK;Alaska;1
+89;4;2;AB;Alberta;1
+124;10;1;AL;Alessandria;1
+125;10;1;AN;Ancona;1
+268;11;3;02;Aomori;1
+126;10;1;AO;Aosta;1
+127;10;1;AR;Arezzo;1
+3;21;2;AZ;Arizona;1
+4;21;2;AR;Arkansas;1
+128;10;1;AP;"Ascoli Piceno";1
+129;10;1;AT;Asti;1
+130;10;1;AV;Avellino;1
+55;145;2;BCN;"Baja California";1
+56;145;2;BCS;"Baja California Sur";1
+234;111;3;BA;Bali;1
+235;111;3;BB;Bangka;1
+236;111;3;BT;Banten;1
+131;10;1;BA;Bari;1
+132;10;1;BT;Barletta-Andria-Trani;1
+133;10;1;BL;Belluno;1
+134;10;1;BN;Benevento;1
+237;111;3;BE;Bengkulu;1
+135;10;1;BG;Bergamo;1
+136;10;1;BI;Biella;1
+137;10;1;BO;Bologna;1
+138;10;1;BZ;Bolzano;1
+139;10;1;BS;Brescia;1
+140;10;1;BR;Brindisi;1
+88;4;2;BC;"British Columbia";1
+99;44;6;B;"Buenos Aires";1
+141;10;1;CA;Cagliari;1
+5;21;2;CA;California;1
+142;10;1;CL;Caltanissetta;1
+57;145;2;CAM;Campeche;1
+143;10;1;CB;Campobasso;1
+144;10;1;CI;Carbonia-Iglesias;1
+145;10;1;CE;Caserta;1
+100;44;6;K;Catamarca;1
+146;10;1;CT;Catania;1
+147;10;1;CZ;Catanzaro;1
+238;111;3;JT;"Central Java";1
+239;111;3;KT;"Central Kalimantan";1
+240;111;3;ST;"Central Sulawesi";1
+101;44;6;H;Chaco;1
+58;145;2;CHP;Chiapas;1
+269;11;3;12;Chiba;1
+148;10;1;CH;Chieti;1
+59;145;2;CHH;Chihuahua;1
+102;44;6;U;Chubut;1
+103;44;6;C;"Ciudad de Buenos Aires";1
+60;145;2;COA;Coahuila;1
+241;111;3;JI;"Coat of arms of East Java";1
+61;145;2;COL;Colima;1
+6;21;2;CO;Colorado;1
+149;10;1;CO;Como;1
+7;21;2;CT;Connecticut;1
+104;44;6;X;Córdoba;1
+105;44;6;W;Corrientes;1
+150;10;1;CS;Cosenza;1
+151;10;1;CR;Cremona;1
+152;10;1;KR;Crotone;1
+153;10;1;CN;Cuneo;1
+8;21;2;DE;Delaware;1
+53;21;2;DC;"District of Columbia";1
+62;145;2;DIF;"Distrito Federal";1
+63;145;2;DUR;Durango;1
+242;111;3;KI;"East kalimantan";1
+243;111;3;NT;"East Nusa Tenggara";1
+270;11;3;38;Ehime;1
+154;10;1;EN;Enna;1
+106;44;6;E;"Entre Ríos";1
+68;145;2;MEX;"Estado de México";1
+155;10;1;FM;Fermo;1
+156;10;1;FE;Ferrara;1
+157;10;1;FI;Firenze;1
+9;21;2;FL;Florida;1
+158;10;1;FG;Foggia;1
+159;10;1;FC;Forlì-Cesena;1
+107;44;6;P;Formosa;1
+160;10;1;FR;Frosinone;1
+271;11;3;18;Fukui;1
+272;11;3;40;Fukuoka;1
+273;11;3;07;Fukushima;1
+161;10;1;GE;Genova;1
+10;21;2;GA;Georgia;1
+274;11;3;21;Gifu;1
+162;10;1;GO;Gorizia;1
+163;10;1;GR;Grosseto;1
+64;145;2;GUA;Guanajuato;1
+65;145;2;GRO;Guerrero;1
+275;11;3;10;Gunma;1
+11;21;2;HI;Hawaii;1
+66;145;2;HID;Hidalgo;1
+276;11;3;34;Hiroshima;1
+277;11;3;01;Hokkaido;1
+278;11;3;28;Hyogo;1
+279;11;3;08;Ibaraki;1
+12;21;2;ID;Idaho;1
+13;21;2;IL;Illinois;1
+164;10;1;IM;Imperia;1
+14;21;2;IN;Indiana;1
+15;21;2;IA;Iowa;1
+165;10;1;IS;Isernia;1
+280;11;3;17;Ishikawa;1
+281;11;3;03;Iwate;1
+245;111;3;JK;Jakarta;1
+67;145;2;JAL;Jalisco;1
+246;111;3;JA;Jambi;1
+108;44;6;Y;Jujuy;1
+282;11;3;37;Kagawa;1
+283;11;3;46;Kagoshima;1
+284;11;3;14;Kanagawa;1
+16;21;2;KS;Kansas;1
+17;21;2;KY;Kentucky;1
+285;11;3;39;Kochi;1
+286;11;3;43;Kumamoto;1
+287;11;3;26;Kyoto;1
+166;10;1;AQ;L'Aquila;1
+109;44;6;L;"La Pampa";1
+110;44;6;F;"La Rioja";1
+167;10;1;SP;"La Spezia";1
+244;111;3;GO;"Lambang propinsi";1
+262;111;3;PB;"Lambang Provinsi Papua Barat";1
+254;111;3;KR;"Lambang Riau";1
+247;111;3;LA;Lampung;1
+168;10;1;LT;Latina;1
+169;10;1;LE;Lecce;1
+170;10;1;LC;Lecco;1
+171;10;1;LI;Livorno;1
+172;10;1;LO;Lodi;1
+18;21;2;LA;Louisiana;1
+173;10;1;LU;Lucca;1
+174;10;1;MC;Macerata;1
+19;21;2;ME;Maine;1
+248;111;3;MA;Maluku;1
+90;4;2;MB;Manitoba;1
+175;10;1;MN;Mantova;1
+20;21;2;MD;Maryland;1
+176;10;1;MS;Massa;1
+21;21;2;MA;Massachusetts;1
+177;10;1;MT;Matera;1
+178;10;1;VS;"Medio Campidano";1
+111;44;6;M;Mendoza;1
+179;10;1;ME;Messina;1
+22;21;2;MI;Michigan;1
+69;145;2;MIC;Michoacán;1
+288;11;3;24;Mie;1
+180;10;1;MI;Milano;1
+23;21;2;MN;Minnesota;1
+112;44;6;N;Misiones;1
+24;21;2;MS;Mississippi;1
+25;21;2;MO;Missouri;1
+289;11;3;04;Miyagi;1
+290;11;3;45;Miyazaki;1
+181;10;1;MO;Modena;1
+26;21;2;MT;Montana;1
+182;10;1;MB;"Monza e della Brianza";1
+70;145;2;MOR;Morelos;1
+291;11;3;20;Nagano;1
+292;11;3;42;Nagasaki;1
+183;10;1;NA;Napoli;1
+293;11;3;29;Nara;1
+71;145;2;NAY;Nayarit;1
+27;21;2;NE;Nebraska;1
+113;44;6;Q;Neuquén;1
+28;21;2;NV;Nevada;1
+93;4;2;NB;"New Brunswick";1
+29;21;2;NH;"New Hampshire";1
+30;21;2;NJ;"New Jersey";1
+31;21;2;NM;"New Mexico";1
+32;21;2;NY;"New York";1
+94;4;2;NL;"Newfoundland and Labrador";1
+294;11;3;15;Niigata;1
+33;21;2;NC;"North Carolina";1
+34;21;2;ND;"North Dakota";1
+249;111;3;MU;"North Maluku";1
+250;111;3;SA;"North Sulawesi";1
+251;111;3;SU;"North Sumatra";1
+96;4;2;NT;"Northwest Territories";1
+92;4;2;NS;"Nova Scotia";1
+184;10;1;NO;Novara;1
+72;145;2;NLE;"Nuevo León";1
+98;4;2;NU;Nunavut;1
+185;10;1;NU;Nuoro;1
+73;145;2;OAX;Oaxaca;1
+186;10;1;OG;Ogliastra;1
+35;21;2;OH;Ohio;1
+295;11;3;44;Oita;1
+296;11;3;33;Okayama;1
+297;11;3;47;Okinawa;1
+36;21;2;OK;Oklahoma;1
+187;10;1;OT;Olbia-Tempio;1
+86;4;2;ON;Ontario;1
+37;21;2;OR;Oregon;1
+188;10;1;OR;Oristano;1
+298;11;3;27;Osaka;1
+189;10;1;PD;Padova;1
+190;10;1;PA;Palermo;1
+252;111;3;PA;Papua;1
+191;10;1;PR;Parma;1
+192;10;1;PV;Pavia;1
+38;21;2;PA;Pennsylvania;1
+193;10;1;PG;Perugia;1
+194;10;1;PU;Pesaro-Urbino;1
+195;10;1;PE;Pescara;1
+196;10;1;PC;Piacenza;1
+197;10;1;PI;Pisa;1
+198;10;1;PT;Pistoia;1
+199;10;1;PN;Pordenone;1
+200;10;1;PZ;Potenza;1
+201;10;1;PO;Prato;1
+95;4;2;PE;"Prince Edward Island";1
+74;145;2;PUE;Puebla;1
+51;21;2;PR;"Puerto Rico";1
+87;4;2;QC;Quebec;1
+75;145;2;QUE;Querétaro;1
+76;145;2;ROO;"Quintana Roo";1
+202;10;1;RG;Ragusa;1
+203;10;1;RA;Ravenna;1
+204;10;1;RC;"Reggio Calabria";1
+205;10;1;RE;"Reggio Emilia";1
+39;21;2;RI;"Rhode Island";1
+253;111;3;RI;Riau;1
+206;10;1;RI;Rieti;1
+207;10;1;RN;Rimini;1
+114;44;6;R;"Río Negro";1
+208;10;1;RM;Roma;1
+209;10;1;RO;Rovigo;1
+299;11;3;41;Saga;1
+300;11;3;11;Saitama;1
+210;10;1;SA;Salerno;1
+115;44;6;A;Salta;1
+116;44;6;J;"San Juan";1
+117;44;6;D;"San Luis";1
+77;145;2;SLP;"San Luis Potosí";1
+118;44;6;Z;"Santa Cruz";1
+119;44;6;S;"Santa Fe";1
+120;44;6;G;"Santiago del Estero";1
+91;4;2;SK;Saskatchewan;1
+211;10;1;SS;Sassari;1
+212;10;1;SV;Savona;1
+301;11;3;25;Shiga;1
+302;11;3;32;Shimane;1
+303;11;3;22;Shizuoka;1
+213;10;1;SI;Siena;1
+78;145;2;SIN;Sinaloa;1
+214;10;1;SR;Siracusa;1
+215;10;1;SO;Sondrio;1
+79;145;2;SON;Sonora;1
+40;21;2;SC;"South Carolina";1
+41;21;2;SD;"South Dakota";1
+256;111;3;KS;"South Kalimantan";1
+257;111;3;SN;"South Sulawesi";1
+258;111;3;SS;"South Sumatra";1
+255;111;3;SG;"Southeast Sulawesi";1
+80;145;2;TAB;Tabasco;1
+81;145;2;TAM;Tamaulipas;1
+216;10;1;TA;Taranto;1
+42;21;2;TN;Tennessee;1
+217;10;1;TE;Teramo;1
+218;10;1;TR;Terni;1
+43;21;2;TX;Texas;1
+121;44;6;V;"Tierra del Fuego";1
+82;145;2;TLA;Tlaxcala;1
+304;11;3;09;Tochigi;1
+305;11;3;36;Tokushima;1
+306;11;3;13;Tokyo;1
+219;10;1;TO;Torino;1
+307;11;3;31;Tottori;1
+308;11;3;16;Toyama;1
+220;10;1;TP;Trapani;1
+221;10;1;TN;Trento;1
+222;10;1;TV;Treviso;1
+223;10;1;TS;Trieste;1
+122;44;6;T;Tucumán;1
+224;10;1;UD;Udine;1
+52;21;2;VI;"US Virgin Islands";1
+44;21;2;UT;Utah;1
+225;10;1;VA;Varese;1
+226;10;1;VE;Venezia;1
+83;145;2;VER;Veracruz;1
+227;10;1;VB;Verbano-Cusio-Ossola;1
+228;10;1;VC;Vercelli;1
+45;21;2;VT;Vermont;1
+229;10;1;VR;Verona;1
+230;10;1;VV;"Vibo Valentia";1
+231;10;1;VI;Vicenza;1
+46;21;2;VA;Virginia;1
+232;10;1;VT;Viterbo;1
+309;11;3;30;Wakayama;1
+47;21;2;WA;Washington;1
+259;111;3;JB;"West Java";1
+260;111;3;KB;"West Kalimantan";1
+261;111;3;NB;"West Nusa Tenggara";1
+263;111;3;SR;"West Sulawesi";1
+264;111;3;SB;"West Sumatra";1
+48;21;2;WV;"West Virginia";1
+49;21;2;WI;Wisconsin;1
+50;21;2;WY;Wyoming;1
+310;11;3;06;Yamagata;1
+311;11;3;35;Yamaguchi;1
+312;11;3;19;Yamanashi;1
+265;111;3;YO;Yogyakarta;1
+84;145;2;YUC;Yucatán;1
+97;4;2;YT;Yukon;1
+85;145;2;ZAC;Zacatecas;1

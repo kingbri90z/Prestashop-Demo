@@ -1,0 +1,37 @@
+"Feature Value ID";"Feature ID";Value;Custom
+22;1;"2.75 in";1
+26;1;"1.07 in";1
+30;1;"4.33 in";1
+34;1;100;
+23;2;"2.06 in";1
+27;2;"1.62 in";1
+31;2;"2.76 in";1
+35;2;100;
+25;3;"0.26 in";1
+29;3;"0.41 in (clip included)";1
+33;3;"0.31 in";1
+24;4;"49.2 g";1
+28;4;"15.5 g";1
+32;4;120g;1
+36;4;100;
+1;5;Polyester;
+2;5;Wool;
+3;5;Viscose;
+4;5;Elastane;
+5;5;Cotton;
+6;5;Silk;
+7;5;Suede;
+8;5;Straw;
+9;5;Leather;
+10;6;Classic;
+11;6;Casual;
+12;6;Military;
+13;6;Girly;
+14;6;Rock;
+15;6;Basic;
+16;6;Dressy;
+17;7;"Short Sleeve";
+18;7;"Colorful Dress";
+19;7;"Short Dress";
+20;7;"Midi Dress";
+21;7;"Maxi Dress";

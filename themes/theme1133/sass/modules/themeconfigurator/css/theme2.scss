@@ -1,0 +1,237 @@
+@import "../../../_theme_variables";
+
+$theme-color1: #23acec;
+$theme-color-hover1: #1f92c7;
+$theme-color2: #061f2b;
+$theme-color-hover2: #18445a;
+$theme-color3: #011119;
+$theme-color-hover3: #0c4d6d;
+$theme-color-product: #aeccda;
+$theme-color4: #badded;
+
+
+
+header .nav {
+	background: $theme-color2;
+}
+#header {
+	background: $theme-color1;
+	.sf-menu > li {
+		&.sfHover > a,
+		> a:hover,
+		&.sfHoverForce > a {
+			color: $light-text-color;
+		}
+	}
+	.stickUpTop {
+		background: $theme-color1;
+	}
+}
+
+#index {
+	#header {
+		.stickUpTop {
+			background: $theme-color1;
+		}
+	}
+}
+
+#languages-block-top,
+#currencies-block-top {
+	ul {
+		background: $theme-color2;
+		li.selected, li:hover a {
+			background: $theme-color-hover2;
+		}
+	}
+}
+
+#homepage-slider {
+	.homeslider-description {
+		background: rgba(1, 17, 25, 0.6);
+	}
+	.bx-wrapper .bx-controls-direction a {
+		&:hover {
+			background: $theme-color1;
+			&:after {
+				color: $light-text-color;
+			}
+		}
+	}
+}
+
+#htmlcontent_top {
+	&:after {
+		content: "";
+		background: rgba(6, 31, 43, 0.5);
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: -1;
+	}
+	ul li a {
+		background: rgba(6, 31, 43, 0.7);
+	}
+}
+#home-page-tabs {
+	background: $theme-color1;
+}
+.sale-label {
+	background: $theme-color1;
+}
+
+.block .title_block, .block h4 {
+	background: $theme-color1;
+}
+
+#index ul.product_list.grid .product-container {
+	.wrap-right-block {
+		background: $theme-color3;
+	}
+	.button-container {
+		background: $theme-color3;
+	}
+}
+
+.btn.btn-default {
+	color: $theme-color1;
+	border: 1px solid $theme-color1;
+	background: $theme-color3;
+	&:hover,
+	&:active,
+	&:focus {
+		background: $theme-color-hover3;
+		color: $light-text-color;
+		border-color: $light-text-color;
+	}
+}
+
+.btn.ajax_add_to_cart_button, 
+.btn.ajax_add_to_cart_product_button {
+	border: 1px solid $theme-color1;
+	box-shadow: none;
+	&:hover,
+	&:active,
+	&:focus {
+		border-break: $light-text-color;
+	}
+}
+
+.btn.lnk_view {
+	color: #777777;
+	&:hover,
+	&:active,
+	&:focus {
+		color: #000;
+	} 
+}
+
+ul.product_list.grid > li {
+	.product-container {
+		background: $theme-color-product;
+		.btn.ajax_add_to_cart_button, 
+		.btn.ajax_add_to_cart_product_button {
+			border: none;
+			box-shadow: inset 0 0 0 1px $theme-color1;
+			-webkit-box-shadow: inset 0 0 0 1px $theme-color1;
+			&:hover,
+			&:active,
+			&:focus {
+				color: $theme-color1;
+				-webkit-box-shadow:inset 0 0 0 2px $theme-color1;
+				box-shadow:inset 0 0 0 2px $theme-color1;
+				background: $theme-color3;
+			}
+		}
+		.btn.lnk_view  {
+			color: $light-text-color;
+			&:hover,
+			&:active,
+			&:focus {
+				color: $theme-color1;
+			} 
+		}
+		.right-block {
+			background: $theme-color3;
+			.price.product-price {
+				color: $theme-color1;
+			}
+			a.product-name:hover {
+				color: $theme-color1;
+			}
+		}
+		.functional-buttons {
+			background: $theme-color2;
+		}
+		.old-price {
+			color: $light-text-color;
+		}
+		.price-percent-reduction {
+			color: $theme-color1;
+		}
+	}
+}
+
+ul.product_list.list > li .product-image-container {
+	background: $theme-color-product;
+}
+
+#parallax-home {
+	&:after {
+		content: "";
+		background: rgba(6, 31, 43, 0.5);
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: -1;
+	}	
+}
+
+#facebook_block .insert,
+.wrap-cms-info .block_cms_info {
+	background: rgba(4, 22, 30, 0.7);
+}
+
+.wrap-cms-info .block_cms_info {
+	p + p {
+		color: $theme-color4;
+	}
+}
+
+.wrap-cms-info + .wrap-cms-info .block_cms_info li {
+	&:after {
+		color: $theme-color4;
+	}
+}
+
+.footer-container {
+	background: $theme-color1;
+	#footer {
+		.toggle-footer {
+			background: $theme-color1;
+		}
+		a {
+			color: $theme-color2;
+		}
+		#block_contact_infos > div ul li {
+			color: $theme-color2;
+			+ li + li > span a:hover {
+				color: $theme-color2;
+			}
+			i {
+				color: $theme-color2;
+				opacity: 1;
+			}
+		}
+		h4 a:hover {
+			color: $theme-color2;
+		}
+		.bottom-footer a {
+			color: $light-text-color;
+		}
+	}
+}

@@ -1,0 +1,65 @@
+#currencies-block-top {
+  padding: 9px 11px 10px 6px;
+  float: right;
+  position: relative; }
+  #currencies-block-top span.firstWord {
+    display: none; }
+  #currencies-block-top div.current {
+    -moz-transition: all 0.25s ease;
+    -o-transition: all 0.25s ease;
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    font: 400 11px/15px "Roboto", sans-serif;
+    padding: 3px 0;
+    color: #777777;
+    text-transform: uppercase;
+    cursor: pointer; }
+    @media (max-width: 479px) {
+      #currencies-block-top div.current {
+        font-size: 10px; } }
+    #currencies-block-top div.current strong {
+      font-weight: 400; }
+    #currencies-block-top div.current:hover, #currencies-block-top div.current.active {
+      color: white; }
+      #currencies-block-top div.current:hover:after, #currencies-block-top div.current.active:after {
+        color: white; }
+    #currencies-block-top div.current:after {
+      -moz-transition: all 0.25s ease;
+      -o-transition: all 0.25s ease;
+      -webkit-transition: all 0.25s ease;
+      transition: all 0.25s ease;
+      content: "\f107";
+      font-family: "FontAwesome";
+      font-size: 11px;
+      line-height: 11px;
+      color: #777777;
+      vertical-align: 0;
+      padding-left: 6px; }
+    #currencies-block-top div.current.active:after {
+      content: "\f106"; }
+    @media (max-width: 479px) {
+      #currencies-block-top div.current .cur-label {
+        display: none; } }
+  #currencies-block-top ul {
+    display: none;
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    width: 157px;
+    background: #1b1b1b;
+    z-index: 2; }
+    #currencies-block-top ul li {
+      color: white;
+      line-height: 35px;
+      font-size: 13px; }
+      #currencies-block-top ul li a,
+      #currencies-block-top ul li > span {
+        padding: 0 10px 0 12px;
+        display: block;
+        color: white; }
+      #currencies-block-top ul li.selected, #currencies-block-top ul li:hover a {
+        background: #484848; }
+
+@media (max-width: 479px) {
+  .lang_es #currencies-block-top div.current {
+    font-size: 9px; } }

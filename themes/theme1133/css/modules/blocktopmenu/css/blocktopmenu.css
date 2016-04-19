@@ -1,0 +1,18 @@
+.stickUpTop {
+  position: relative;
+  width: 100%;
+  left: 0;
+  top: 0; }
+  .stickUpTop.isStuck {
+    background: #ffae02; }
+
+.stickUpHolder {
+  padding: 0;
+  max-width: 100%; }
+
+@media only screen and (max-width: 1199px) {
+  .isStuck .container {
+    padding-left: 15px;
+    padding-right: 15px; } }
+#block_top_menu .container {
+  position: relative; }

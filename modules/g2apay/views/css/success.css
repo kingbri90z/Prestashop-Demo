@@ -1,0 +1,38 @@
+
+.g2apay__loading {
+    text-align: center;
+}
+
+.g2apay__success,
+.g2apay__error {
+    display: none;
+}
+
+.g2apay__confirmation p {
+    margin-top: 10px;
+}
+
+.g2apay__loading-image {
+    -webkit-animation: g2apay__spin 4s linear infinite;
+    -moz-animation: g2apay__spin 4s linear infinite;
+    animation: g2apay__spin 4s linear infinite;
+}
+
+@-moz-keyframes g2apay__spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes g2apay__spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes g2apay__spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}

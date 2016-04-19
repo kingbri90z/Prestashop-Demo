@@ -1,0 +1,4 @@
+"Slide ID";Active;Position;Description;Title;Legend;Url;Image
+1;1;0;"<h2>YOUR WHEELS<br />ARE IN<br />GOOD HANDS!</h2>";"Sample 1";sample-1;index.php?id_category=5&controller=category;f99a5dc09325be558513d8a98ddd29129c65b10a_slide1.jpg
+2;1;0;"<h2>FIND<br /> WHEELS &amp; TYRES<br />FOR ALL VEHICLE TYPES</h2>";"Sample 2";sample-2;index.php?id_category=4&controller=category;16067fd43b4192a9efea90f9a50b7bee0f3c3e42_slide2.jpg
+3;1;0;"<h2>Custom Wheels &amp; Rims<br />It's all about style<br />and performance</h2>";"Sample 3";sample-3;index.php?id_category=3&controller=category;f84ec59f2c5f4e4a239137dbad7118634667fb88_slide3.jpg

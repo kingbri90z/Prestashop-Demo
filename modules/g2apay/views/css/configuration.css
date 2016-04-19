@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100);
+
+.g2a_pay * {
+    font-family: 'Roboto', sans-serif;
+}
+
+.g2a_pay {
+    background: #f0f1f3;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #dfdfdf;
+    color: #404c57;
+}
+.g2a_pay .title {
+    font-weight: 100;
+    font-size: 27px;
+    margin-top: 50px;
+    margin-bottom: 85px; }
+.g2a_pay .title strong {
+    color: #dd3013;
+    font-weight: 500; }
+.g2a_pay .blocks {
+    width: 100%;
+    max-width: 760px;
+    display: inline-block; }
+.g2a_pay .blocks .block {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%; }
+.g2a_pay .blocks .block.second {
+    width: 38%; }
+.g2a_pay .blocks .block .img {
+    margin-bottom: 35px; }
+.g2a_pay .blocks .block .desc {
+    text-transform: uppercase;
+    font-size: 14px; }
+.g2a_pay .buttons {
+    margin-top: 75px; }
+.g2a_pay .buttons .btn {
+    font-size: 13px;
+    font-weight: 500;
+    color: #404c57;
+    text-decoration: none;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25px;
+    width: 285px;
+    height: 54px;
+    line-height: 54px;
+    margin-bottom: 20px;
+    padding: 0px !important;
+}
+.g2a_pay .buttons .btn img {
+    vertical-align: middle;
+    margin-right: 15px; }
+
+@media (max-width: 760px) {
+    .g2a_pay .blocks .block, .g2a_pay .blocks .block.second {
+        display: block;
+        width: 100%;
+        margin-bottom: 40px; }
+}
+
+.g2a_pay {
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+.g2a_pay {
+    margin: 0;
+}

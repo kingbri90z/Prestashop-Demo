@@ -1,0 +1,3 @@
+"Carrier ID";"Reference ID";"Tax Rules Group ID";Name;"Active (0/1)";"Is free";Url;"Shipping Handling";"Shipping External";"Range Behavior";"Shipping Method";"Max Width";"Max Height";"Max Depth";"Max Weight";Grade;"External Module Name";"Is Module";"Need Range";Position;Deleted;Delay;"Carrier Groups";"Carrier Zones";"Range Price";"Range Weight"
+11;11;;"new store";1;1;;0;0;0;1;0;0;0;0.000000;0;;0;0;0;0;"Pick up in-store";1,2,3;1,2,3,4,5,6,7,8;;
+12;12;;"My carrier";1;0;;1;0;0;1;0;0;0;0.000000;0;;0;0;1;0;"Delivery next day!";1,2,3;1,2,3,4,5,6,7,8;;0.000000-10000.000000

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>sampledatainstall</name>
+	<displayName><![CDATA[Sample Data Install]]></displayName>
+	<version><![CDATA[2.1.8]]></version>
+	<description><![CDATA[Imports sample data to make your theme look like at template live demo. Imports sample products, categories, module settings, static pages etc.]]></description>
+	<author><![CDATA[TemplateMonster (Alexander Grosul)]]></author>
+	<tab><![CDATA[export]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

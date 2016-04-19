@@ -1,0 +1,75 @@
+/* ************************************************************************************************
+								Categories Page Styles
+************************************************************************************************ */
+.content_scene_cat {
+  border-top: 1px solid #d6d4d4;
+  line-height: 19px;
+  margin: 0 0 26px 0; }
+  .content_scene_cat .content_scene_cat_bg {
+    padding: 20px 0 0 0; }
+  .content_scene_cat span.category-name {
+    font: 600 25px/30px "Open Sans", sans-serif;
+    margin-bottom: 12px;
+    display: inline-block; }
+    @media (max-width: 1199px) {
+      .content_scene_cat span.category-name {
+        font-size: 25px;
+        line-height: 30px; } }
+  .content_scene_cat p {
+    margin-bottom: 0; }
+  .content_scene_cat a.lnk_more {
+    font-weight: bold; }
+  .content_scene_cat a:hover {
+    text-decoration: underline; }
+  .content_scene_cat .content_scene {
+    color: #777777; }
+    .content_scene_cat .content_scene .cat_desc {
+      padding-top: 20px; }
+      .content_scene_cat .content_scene .cat_desc a {
+        color: #777777; }
+        .content_scene_cat .content_scene .cat_desc a:hover {
+          color: black; }
+
+/* ************************************************************************************************
+									Sub Categories Styles
+************************************************************************************************ */
+#subcategories {
+  border-top: 1px solid #d6d4d4;
+  padding: 15px 0 0 0; }
+  #subcategories p.subcategory-heading {
+    font-weight: bold;
+    color: #333333;
+    margin: 0 0 15px 0; }
+  #subcategories ul {
+    margin: 0 0 0 -20px; }
+    #subcategories ul li {
+      float: left;
+      width: 128px;
+      margin: 0 0 13px 20px;
+      text-align: center;
+      height: 202px; }
+      #subcategories ul li .subcategory-image {
+        padding: 0 0 8px 0; }
+        #subcategories ul li .subcategory-image a {
+          display: block;
+          border: 1px solid #d6d4d4;
+          padding: 9px;
+          position: relative;
+          background: white; }
+          #subcategories ul li .subcategory-image a img {
+            max-width: 100%;
+            vertical-align: top;
+            height: auto; }
+      #subcategories ul li h5 {
+        margin: 0; }
+      #subcategories ul li .subcategory-name {
+        font: 600 15px/18px "Open Sans", sans-serif;
+        color: #777;
+        text-transform: uppercase; }
+        #subcategories ul li .subcategory-name:hover {
+          color: black !important; }
+      #subcategories ul li .cat_desc {
+        display: none; }
+      #subcategories ul li:hover .subcategory-image a {
+        border-width: 5px;
+        padding: 5px; }

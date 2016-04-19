@@ -1,0 +1,294 @@
+@import "../../../_theme_variables";
+
+/*** ESSENTIAL STYLES ***/
+
+.sf-right {}
+.sf-menu,
+.sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.wrap-menu {
+	float: right;
+	padding: 25px 0 23px;
+	@media (max-width: $screen-xs-max) {
+		float: none;
+		padding: 15px 15px 28px;
+	}
+}
+
+.sf-menu {
+	margin-right: -3px;
+	@media (max-width: $screen-xs-max) { // max 767px
+		display: none;
+		background: #222;
+		margin: 0;
+		padding-bottom: 10px;
+	}
+}
+.sf-menu ul {
+	background: #000;
+	position: absolute;
+	top: -999em;
+	@media (max-width: $screen-md-max) and (min-width: $screen-xs-max) {
+		@include transition (all 0.3s ease);
+	}
+	@media (max-width: $screen-xs-max) { // max 767px
+		position: relative;
+	}
+}
+#index {
+	.sf-menu ul {
+		background: rgba(0, 0, 0, 0.85);
+	}
+	.sf-menu li li ul {
+		background: rgba(0, 0, 0, 0);
+	}
+	.stickUpTop {
+		background: rgba(255, 174, 2, 0.95);
+		&.isStuck {
+			.sf-menu ul {
+				background: rgba(0, 0, 0, 0.95);
+			}
+			.sf-menu li li ul {
+				background: rgba(0, 0, 0, 0);
+			}
+		}
+	}
+}
+.sf-menu ul li {
+	width: 100%;
+}
+.sf-menu li:hover {
+	visibility: inherit; /* fixes IE7 'sticky bug' */
+}
+.sf-menu > li {
+	float: left;
+	margin-left: 20px;
+	@media (max-width: $screen-sm-max) and (min-width: $screen-xs-max) {
+		margin-left: 15px;
+	}
+	@media (max-width: $screen-xs-max) { // max 767px
+		float: none;
+		position: relative;
+		border-right: none;
+		padding: 20px 0 0;
+		span {
+			position: absolute;
+			right: 12px;
+			top: 25px;
+			width: 30px;
+			height: 30px;
+			z-index: 2;
+			&:after {
+				font-family: $font-icon;
+				content: "\f067";
+				font-size: 26px;
+			}
+			&.active {
+				&:after {
+					content: "\f068";	
+				}
+			}
+		}
+	}
+	> a {
+		font: 400 17px/21px $font-custom-text;
+		text-transform: uppercase;
+		color: #1b1b1b;
+		display: block;
+		padding: 3px;
+		@media (max-width: $screen-sm-max) and (min-width: $screen-xs-max) {
+			font-size: 15px;
+		}
+		@media (max-width: $screen-xs-max) {
+			margin-bottom: 15px;
+			color: #888;
+		}
+	}
+	&.sfHover > a,
+	> a:hover,
+	&.sfHoverForce > a {
+		color: $light-text-color;
+	}
+}
+.sf-menu li li li a {
+	display: inline-block;
+	position: relative;
+	color: #888;
+	text-transform: uppercase;
+	font: 400 11px/14px $font-custom-text;
+	padding-bottom: 10px;
+	&:before {
+		content: "\f105";
+		display: inline-block;
+		font-family: $font-icon;
+		padding-right: 10px;
+	}
+	&:hover {
+		color: $light-text-color;
+	}
+}
+.sf-menu li li li.sfHoverForce > a {
+	color:$base-text-color;
+}
+.sf-menu li ul {
+	display: none;
+	left: 0;
+	top: 75px; /* match top ul list item height */
+	z-index: 99;
+	padding: 12px 0 18px 0;
+	@include box-shadow(rgba(black, 0.20) 0 5px 13px);
+	@media (max-width: $screen-xs-max) { // max 767px
+		top: 0;
+	}
+}
+.sf-menu li li ul {
+	position: static;
+	display: block !important;
+	opacity: 1 !important;
+	@include box-shadow(rgba(black, 0) 0 0 0);
+}
+.sf-menu li li li ul {
+	padding: 0 0 0 20px;
+}
+.sf-menu li li li ul {
+	width: 220px;
+}
+ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li ul {
+	top: -999em;
+}
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left: 200px; /* match ul width */
+	top: 0;
+}
+ul.sf-menu li li:hover li ul,
+ul.sf-menu li li.sfHover li ul {
+	top: -999em;
+}
+ul.sf-menu li li li:hover ul,
+ul.sf-menu li li li.sfHover ul {
+	left: 200px; /* match ul width */
+	top: 0;
+}
+.sf-menu > li > ul {
+	padding: 26px 30px 31px;
+	width: 100%;
+	@media (max-width: $screen-md-max) {
+		margin-left: 15px;
+		width: 97%;
+	}
+	@media (max-width: $screen-sm-max) {
+		width: 96%;		
+	}
+	@media (max-width: $screen-xs-max) {
+		margin: 0;
+		width: 97%;
+	}
+	> li {
+		> a {
+			text-transform: uppercase;
+			font: 400 16px/20px $font-custom-text;
+			color: $light-text-color;
+			&:hover {
+				color: #888;
+			}
+		}
+	}
+}
+.sf-menu > li > ul > li {
+	float: left;
+	width: 20%;
+	padding-right: 15px;
+	@media (max-width: $screen-xs-max) { // max 767px
+		width: 50%;
+		margin-bottom: 10px;
+	}
+	@media (max-width: $screen-xs - 1) { // max 479px
+		width: 100%;
+	}
+	@media (min-width: $screen-sm) { // min 768px
+		&.first-in-line-lg {
+			clear: left;
+		}
+	}
+	@media (min-width: $screen-xs) and (max-width: $screen-xs-max) { // min 480px max 767px
+		&.first-in-line-xs {
+			clear: left;
+		}
+	}
+}
+.sf-menu > li > ul > li.category-thumbnail {
+	width: 100% !important;
+	float: none;
+	clear: both;
+	overflow: hidden;
+	padding-right: 0;
+	> div {
+		float: left;
+		padding-left: 10px;
+		width: 33.333%;
+		@media (max-width: $screen-xs - 1) { // max 479px
+			width: 100%;
+			padding-left: 0;
+			padding-top: 10px;
+			text-align: center;
+		}
+		&:first-child {
+			padding-left: 0;
+		}
+		img {
+			max-width: 100%;
+			display: block;
+		}
+	}
+}
+.cat-title {
+	display: none;
+	@media (max-width: $screen-xs-max) { // max 767px
+		display: block;
+		font: 600 18px/22px $font-custom;
+		text-transform: uppercase;
+		color: $light-text-color;
+		display: block;
+		padding: 17px 20px;
+		background: #444;
+		position: relative;
+		&:hover {
+			background: #333;
+		}
+		&:after {
+			display: block;
+			font-family: $font-icon;
+			content: "\f067";
+			position: absolute;
+			right: 15px;
+			top: 18px;
+			font-size: 26px;
+		}
+		&.active:after{
+			content: "\f068";
+		}
+	}
+}
+
+.sf-menu {
+	li.sf-search{
+		border: none;
+		input{
+			display: inline;
+			padding: 0 13px;
+			height: 30px;
+			line-height: 30px;
+			background: $input-bg;
+			margin: 13px 10px 0 0;
+			font-size: 13px;
+			color: $input-color;
+			border: 1px solid $input-border;
+		}
+	}
+}

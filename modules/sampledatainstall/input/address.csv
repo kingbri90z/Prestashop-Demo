@@ -1,0 +1,6 @@
+"Address ID";"Active (0/1)";Alias*;"Customer ID";"Manufacturer ID";"Supplier ID";"Warehouse ID";"Country ID";"State ID";Country;Company;Lastname;Firstname;"Address 1";"Address 2";Postcode;City;Other;Phone;Phone_mobile;Vat_number;DNI;Deleted
+1;1;"Mon adresse";1;0;0;0;8;0;France;"My Company";DOE;John;"16, Main street";"2nd floor";75002;"Paris ";;0102030405;;;;0
+2;1;supplier;0;0;1;0;21;32;"United States";Fashion;supplier;supplier;"767 Fifth Ave.";;10153;"New York";;"(212) 336-1440";;;;0
+3;1;manufacturer;0;1;0;0;21;32;"United States";Fashion;manufacturer;manufacturer;"767 Fifth Ave.";;10154;"New York";;"(212) 336-1666";;;;0
+4;1;"My address";1;0;0;0;21;9;"United States";"My Company";DOE;John;"16, Main street";"2nd floor";33133;Miami;;0102030405;;;;0
+5;1;"My address";2;0;0;0;21;1;"United States";;admin;Admin;ttydgdfgdfgdfgdfgd;;32333;dgdgd;;23443242343;234324324434;;;0

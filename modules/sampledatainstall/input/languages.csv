@@ -1,0 +1,6 @@
+"Language ID";"Language name";"ISO Code";"Language code";"Active (0/1)";RTL;"Date format(lite)";"Date format(full)"
+1;"English (United States)";en;en-us;1;0;m/d/Y;"m/d/Y H:i:s"
+2;"Deutsch (German)";de;de-de;1;0;d.m.Y;"d.m.Y H:i:s"
+3;"Русский (Russian)";ru;ru-ru;1;0;Y-m-d;"Y-m-d H:i:s"
+4;"Español (Spanish)";es;es-es;1;0;d/m/Y;"d/m/Y H:i:s"
+5;"Français (French)";fr;fr-fr;1;0;d/m/Y;"d/m/Y H:i:s"

@@ -1,0 +1,244 @@
+"CMS Page ID";"CMS Category ID";Position;"Active (0/1)";Indexation;"Meta tile";"Meta description";"Meta keywords";Content;"URL rewritten"
+1;1;0;1;0;Delivery;"Our terms and conditions of delivery";"conditions, delivery, delay, shipment, pack";"<h2>Shipments and returns</h2><h3>Your pack shipment</h3><p>Packages are generally dispatched within 2 days after receipt of payment and are shipped via UPS with tracking and drop-off without signature. If you prefer delivery by UPS Extra with required signature, an additional cost will be applied, so please contact us before choosing this method. Whichever shipment choice you make, we will provide you with a link to track your package online.</p><p>Shipping fees include handling and packing fees as well as postage costs. Handling fees are fixed, whereas transport fees vary according to total weight of the shipment. We advise you to group your items in one order. We cannot group two distinct orders placed separately, and shipping fees will apply to each of them. Your package will be dispatched at your own risk, but special care is taken to protect fragile objects.<br /><br />Boxes are amply sized and your items are well-protected.</p>";delivery
+2;1;1;1;0;"Legal Notice";"Legal notice";"notice, legal, credits";"<h2>Legal</h2><h3>Credits</h3><p>Concept and production:</p><p>This Web site was created using <a href=""http://www.prestashop.com"">PrestaShop</a>™ open-source software.</p>";legal-notice
+3;1;2;1;0;"Terms and conditions of use";"Our terms and conditions of use";"conditions, terms, use, sell";"<h1 class=""page-heading"">Terms and conditions of use</h1>
+<h3 class=""page-subheading"">Rule 1</h3>
+<p class=""bottom-indent"">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h3 class=""page-subheading"">Rule 2</h3>
+<p class=""bottom-indent"">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+<h3 class=""page-subheading"">Rule 3</h3>
+<p class=""bottom-indent"">Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>";terms-and-conditions-of-use
+4;1;3;1;0;"About us";"Learn more about us";"about us, informations";"<h1 class=""page-heading bottom-indent"">About us</h1>
+<div class=""row"">
+<div class=""col-xs-12 col-sm-4"">
+<div class=""cms-block"">
+<h3 class=""page-subheading"">Our company</h3>
+<p><strong class=""dark"">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididun.</strong></p>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet conse ctetur adipisicing elit.</p>
+<ul class=""list-1""><li><em class=""fa fa-check""></em>Top quality products</li>
+<li><em class=""fa fa-check""></em>Best customer service</li>
+<li><em class=""fa fa-check""></em>30-days money back guarantee</li>
+</ul></div>
+</div>
+<div class=""col-xs-12 col-sm-4"">
+<div class=""cms-box"">
+<h3 class=""page-subheading"">Our team</h3>
+<img title=""cms-img"" src=""./img/cms/cms-img.jpg"" alt=""cms-img"" width=""370"" height=""192"" /><p><strong class=""dark"">Lorem set sint occaecat cupidatat non </strong></p>
+<p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+</div>
+</div>
+<div class=""col-xs-12 col-sm-4"">
+<div class=""cms-box"">
+<h3 class=""page-subheading"">Testimonials</h3>
+<div class=""testimonials"">
+<div class=""inner""><span class=""before"">“</span>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.<span class=""after"">”</span></div>
+</div>
+<p><strong class=""dark"">Lorem ipsum dolor sit</strong></p>
+<div class=""testimonials"">
+<div class=""inner""><span class=""before"">“</span>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet conse ctetur adipisicing elit. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod.<span class=""after"">”</span></div>
+</div>
+<p><strong class=""dark"">Ipsum dolor sit</strong></p>
+</div>
+</div>
+</div>";about-us
+5;1;4;1;0;"Secure payment";"Our secure payment mean";"secure payment, ssl, visa, mastercard, paypal";"<h2>Secure payment</h2>
+<h3>Our secure payment</h3><p>With SSL</p>
+<h3>Using Visa/Mastercard/Paypal</h3><p>About this services</p>";secure-payment
+6;1;5;1;0;"Pages configuration";;;"<div class=""block"">
+<h4>Pages configuration</h4>
+<div>
+<h3>1. Position section of the modules list.</h3>
+<p>After activating all necessary modules you need to assign them to correct positions. In PrestaShop admin panel from the top menu select Modules &gt; Positions. To place module in the required position just drag it to the position section of the modules list.</p>
+<table class=""table table-bordered table-hover""><tbody><tr><th>Module name</th><th>Position</th><th>Order</th></tr><tr><td>Contact block v1.3.2</td>
+<td>displayRightColumn</td>
+<td>1</td>
+</tr><tr><td>Layered navigation block v2.0.5</td>
+<td>displayLeftColumn</td>
+<td>1</td>
+</tr><tr><td>Categories block v2.8.4</td>
+<td>displayLeftColumn</td>
+<td>2</td>
+</tr><tr><td>Wishlist block v1.1.7</td>
+<td>displayLeftColumn</td>
+<td>3</td>
+</tr><tr><td>Top-sellers block v1.5.8</td>
+<td>displayLeftColumn</td>
+<td>4</td>
+</tr><tr><td>CMS block v2.0.1</td>
+<td>displayLeftColumn</td>
+<td>5</td>
+</tr><tr><td>Manufacturers block v1.2.1</td>
+<td>displayLeftColumn</td>
+<td>6</td>
+</tr><tr><td>My Account block v1.3.1</td>
+<td>displayLeftColumn</td>
+<td>7</td>
+</tr><tr><td>New products block v1.9.2</td>
+<td>displayLeftColumn</td>
+<td>8</td>
+</tr><tr><td>Payment logos block. v0.3.2</td>
+<td>displayLeftColumn</td>
+<td>9</td>
+</tr><tr><td>Specials block v1.1.2</td>
+<td>displayLeftColumn</td>
+<td>10</td>
+</tr><tr><td>Store locator block v1.2.1</td>
+<td>displayLeftColumn</td>
+<td>11</td>
+</tr><tr><td>Suppliers block v1.1.1</td>
+<td>displayLeftColumn</td>
+<td>12</td>
+</tr><tr><td>Tags block v1.2.3</td>
+<td>displayLeftColumn</td>
+<td>13</td>
+</tr><tr><td>Viewed products block v1.2.2</td>
+<td>displayLeftColumn</td>
+<td>14</td>
+</tr><tr><td>Theme configurator v1.1.7</td>
+<td>displayLeftColumn</td>
+<td>15</td>
+</tr><tr><td>Theme configurator v1.1.7</td>
+<td>displayHome</td>
+<td>1</td>
+</tr><tr><td>Facebook block v1.3.2</td>
+<td>displayHome</td>
+<td>2</td>
+</tr><tr><td>Custom CMS information block v1.5.2</td>
+<td>displayHome</td>
+<td>3</td>
+</tr><tr><td>Top horizontal menu v2.0.9</td>
+<td>displayTop</td>
+<td>1</td>
+</tr><tr><td>Pages not found v1.3.4</td>
+<td>displayTop</td>
+<td>2</td>
+</tr><tr><td>Search engine keywords v1.2.4</td>
+<td>displayTop</td>
+<td>3</td>
+</tr><tr><td>Wishlist block v1.1.7</td>
+<td>displayTop</td>
+<td>4</td>
+</tr><tr><td>Product Comments v3.3.9</td>
+<td>displayTop</td>
+<td>5</td>
+</tr><tr><td>Categories block v2.8.4</td>
+<td>displayFooter</td>
+<td>1</td>
+</tr><tr><td>Layered navigation block v2.0.5</td>
+<td>displayFooter</td>
+<td>2</td>
+</tr><tr><td>CMS block v2.0.1</td>
+<td>displayFooter</td>
+<td>3</td>
+</tr><tr><td>My account block for your website's footer v1.5.1</td>
+<td>displayFooter</td>
+<td>4</td>
+</tr><tr><td>Contact information block v1.1.2</td>
+<td>displayFooter</td>
+<td>5</td>
+</tr><tr><td>Data mining for statistics v1.4.1</td>
+<td>displayFooter</td>
+<td>6</td>
+</tr><tr><td>Theme configurator v1.1.7</td>
+<td>displayFooter</td>
+<td>7</td>
+</tr><tr><td>Media parallax module v1.0.0</td>
+<td>displayFooter</td>
+<td>8</td>
+</tr><tr><td>Featured products on the homepage v1.6.2</td>
+<td>displayHomeTab</td>
+<td>1</td>
+</tr><tr><td>New products block v1.9.2</td>
+<td>displayHomeTab</td>
+<td>2</td>
+</tr><tr><td>Top-sellers block v1.5.8</td>
+<td>displayHomeTab</td>
+<td>3</td>
+</tr><tr><td>Featured products on the homepage v1.6.2</td>
+<td>displayHomeTabContent</td>
+<td>1</td>
+</tr><tr><td>New products block v1.9.2</td>
+<td>displayHomeTabContent</td>
+<td>2</td>
+</tr><tr><td>Top-sellers block v1.5.8</td>
+<td>displayHomeTabContent</td>
+<td>3</td>
+</tr><tr><td>Image slider for your homepage v1.4.3</td>
+<td>displayTopColumn</td>
+<td>1</td>
+</tr><tr><td>Theme configurator v1.1.7</td>
+<td>displayTopColumn</td>
+<td>2</td>
+</tr><tr><td>Contact block v1.3.2</td>
+<td>displayNav</td>
+<td>1</td>
+</tr><tr><td>Cart block v1.5.2</td>
+<td>displayNav</td>
+<td>2</td>
+</tr><tr><td>Currency block v0.3.1</td>
+<td>displayNav</td>
+<td>3</td>
+</tr><tr><td>Language block v1.3.2</td>
+<td>displayNav</td>
+<td>4</td>
+</tr><tr><td>User info block v0.3.1</td>
+<td>displayNav</td>
+<td>5</td>
+</tr><tr><td>Quick search block v1.5.2</td>
+<td>displayNav</td>
+<td>6</td>
+</tr></tbody></table><h3>2. Configuring images</h3>
+<p>In PrestaShop you can use predefined image dimensions for product images, category images, manufacturers etc.</p>
+<p>For example, images of the <strong>'home'</strong> dimensions are usually used for the category listing product images, <strong>'large'</strong> for main product image on the product info page.</p>
+<p>To configure product image dimensions, open your PrestaShop admin panel, go to <strong>Preferences &gt; Images</strong> and set the image dimensions as displayed below:</p>
+<table class=""table table-bordered table-hover""><tbody><tr><th>Picture</th><th>Width (px)</th><th>Height (px)</th></tr><tr><td>small_default</td>
+<td>98</td>
+<td class=""presta_center"">98</td>
+</tr><tr><td>medium_default</td>
+<td>125</td>
+<td class=""presta_center"">125</td>
+</tr><tr><td>home_default</td>
+<td>270</td>
+<td class=""presta_center"">270</td>
+</tr><tr><td>large_default</td>
+<td>458</td>
+<td class=""presta_center"">458</td>
+</tr><tr><td>thickbox_default</td>
+<td>800</td>
+<td class=""presta_center"">800</td>
+</tr><tr><td>category_default</td>
+<td>870</td>
+<td class=""presta_center"">217</td>
+</tr><tr><td>scene_default</td>
+<td>520</td>
+<td class=""presta_center"">189</td>
+</tr><tr><td>m_scene_default</td>
+<td>161</td>
+<td class=""presta_center"">58</td>
+</tr><tr><td>tm_home_default</td>
+<td>270</td>
+<td class=""presta_center"">270</td>
+</tr><tr><td>tm_large_default</td>
+<td>458</td>
+<td class=""presta_center"">458</td>
+</tr><tr><td>tm_small_default</td>
+<td>98</td>
+<td class=""presta_center"">98</td>
+</tr><tr><td>tm_cart_default</td>
+<td>80</td>
+<td class=""presta_center"">80</td>
+</tr><tr><td>tm_medium_default</td>
+<td>125</td>
+<td class=""presta_center"">125</td>
+</tr><tr><td>tm_thickbox_default</td>
+<td>800</td>
+<td class=""presta_center"">800</td>
+</tr><tr><td>tm_category_default</td>
+<td>870</td>
+<td class=""presta_center"">217</td>
+</tr><tr><td>cart_default</td>
+<td>80</td>
+<td class=""presta_center"">80</td>
+</tr></tbody></table></div>
+<div class=""clearfix""> </div>
+</div>";pages-configuration

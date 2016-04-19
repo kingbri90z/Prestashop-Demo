@@ -1,0 +1,17 @@
+#nav-sidebar ul.menu li#maintab-AdminSampleDataInstall > a.title, #nav-topbar ul.menu li#maintab-AdminSampleDataInstall > a.title {	
+	background:#ff5450;
+	color:#fff;
+}
+
+#nav-sidebar ul.menu li#maintab-AdminSampleDataInstall > a.title:hover, #nav-topbar ul.menu li#maintab-AdminSampleDataInstall > a.title:hover {
+	background:#272c38;
+}
+
+.icon-AdminSampleDataInstall {
+	text-align:center;
+}
+
+.icon-AdminSampleDataInstall:before {
+	content:'';
+	color:#fff;
+}

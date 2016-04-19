@@ -1,0 +1,140 @@
+@import "../../../_theme_variables";
+
+
+
+/* Top hook CSS */
+#htmlcontent_top {
+	overflow: hidden;
+	padding: 60px 0;
+	ul {
+		margin: 0;
+		li {
+			margin: 0;
+			float: left;
+			@media (max-width: $screen-md-max) {
+				width: 50%;
+			}
+			@media (max-width: $screen-xs - 1) {
+				width: 100%;
+				margin-bottom: 1px;
+			}
+			img {
+				max-width: 100%;
+				height: auto;
+				@include transition (all 0.45s ease-in);
+			}
+			a {
+				text-align: center;
+				@include transition (all 0.35s ease-out);
+				overflow: hidden;
+				position: relative;
+				display: block;
+				background: #222;
+				background: rgba(0, 0, 0, 0.7);
+				.item-html {	
+					width: 100%;
+					position: absolute;
+					top: 17%;
+					@media (max-width: $screen-md-max) {
+						top: 7%;
+					}
+					@media (max-width: $screen-xs-max) { 
+						top: 19%;
+					}
+				}
+				h2 {
+					@include transition (all 0.35s ease);
+					font: 300 60px/60px $font-custom-other;
+					text-transform: uppercase;
+					color: $light-text-color;
+					margin: 0 0 10px;
+					@media (max-width: $screen-sm-max) {
+						font-size: 35px;
+						line-height: 35px;
+					}
+					@media (max-width: $screen-xs-max) {
+						font-size: 28px;
+						line-height: 30px;
+					}
+					@media (max-width: $screen-xs - 1) {
+						line-height: 36px;
+					}
+				}
+				p {
+					font: 300 12px/22px $font-custom-text;
+					color: $light-text-color;
+					padding: 0 15%;
+					@media (max-width: $screen-sm-max) {
+						padding: 0 5%;
+					}
+					@media (max-width: $screen-xs-max) {
+						display: none;
+					}
+				}
+				&:hover {
+					background: rgba(0, 0, 0, 0.9);
+					@media (min-width: $screen-md-max) {
+						img {
+							@include scale(1.08);
+						}
+						h2 {
+							@include scale(1.1);
+						}
+						p {
+							animation: 300ms linear 0s normal none 1 moveFromBottom;
+					       	-webkit-animation: 300ms linear 0s normal none 1 moveFromBottom;
+					       	-moz-animation: 300ms linear 0s normal none 1 moveFromBottom;
+					       	-o-animation: 300ms linear 0s normal none 1 moveFromBottom;
+					       	-ms-animation: 300ms linear 0s normal none 1 moveFromBottom;
+						}
+					}		
+				}	
+			}
+		}
+	}
+}
+
+@keyframes moveFromBottom {
+	0% {
+		opacity: 0;
+		transform: translateY(200%);
+	}
+	50% {
+		opacity: 0.5;
+		transform: translateY(100%);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0%);
+	}
+}
+@-webkit-keyframes moveFromBottom {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateY(200%);
+	}
+	50% {
+		opacity: 0.5;
+		-webkit-transform: translateY(100%);
+	}
+	100% {
+		opacity: 1;
+		-webkit-transform: translateY(0%);
+	}
+}
+
+#htmlcontent_home {
+	padding: 0px 0 50px;
+}
+
+/* Left hook CSS */
+#htmlcontent_left {
+}
+
+/* Right hook CSS */
+#htmlcontent_right {
+}
+
+/* Footer hook CSS */
+#htmlcontent_footer {
+}

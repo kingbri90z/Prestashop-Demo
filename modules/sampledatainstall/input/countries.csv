@@ -1,0 +1,245 @@
+"Country ID";"Zone ID";"Currency ID";"Call Prefix";"ISO Code";Active;"Contains States";"Need Identification Number";"Need Zip Code";"ZIP Code Format";"Display Tax Label";Name;Country;Zone
+231;3;0;93;AF;1;0;0;0;;1;Afghanistan;Afghanistan;Asia
+244;7;0;0;AX;1;0;0;1;NNNNN;1;"Åland Islands";"Åland Islands";"Europe (non-EU)"
+230;7;0;355;AL;1;0;0;1;NNNN;1;Albania;Albania;"Europe (non-EU)"
+38;4;0;213;DZ;1;0;0;1;NNNNN;1;Algeria;Algeria;Africa
+39;2;0;0;AS;1;0;0;1;;1;"American Samoa";"American Samoa";"North America"
+40;7;0;376;AD;1;0;0;1;CNNN;1;Andorra;Andorra;"Europe (non-EU)"
+41;4;0;244;AO;1;0;0;0;;1;Angola;Angola;Africa
+42;8;0;0;AI;1;0;0;1;;1;Anguilla;Anguilla;"Central America/Antilla"
+232;5;0;0;AQ;1;0;0;1;;1;Antarctica;Antarctica;Oceania
+43;2;0;0;AG;1;0;0;1;;1;"Antigua and Barbuda";"Antigua and Barbuda";"North America"
+44;6;0;54;AR;1;1;0;1;LNNNN;1;Argentina;Argentina;"South America"
+45;3;0;374;AM;1;0;0;1;NNNN;1;Armenia;Armenia;Asia
+46;8;0;297;AW;1;0;0;1;;1;Aruba;Aruba;"Central America/Antilla"
+24;5;0;61;AU;1;0;0;1;NNNN;1;Australia;Australia;Oceania
+2;1;0;43;AT;1;0;0;1;NNNN;1;Austria;Austria;Europe
+47;3;0;994;AZ;1;0;0;1;CNNNN;1;Azerbaijan;Azerbaijan;Asia
+48;2;0;0;BS;1;0;0;1;;1;Bahamas;Bahamas;"North America"
+49;3;0;973;BH;1;0;0;1;;1;Bahrain;Bahrain;Asia
+50;3;0;880;BD;1;0;0;1;NNNN;1;Bangladesh;Bangladesh;Asia
+51;2;0;0;BB;1;0;0;1;CNNNNN;1;Barbados;Barbados;"North America"
+52;7;0;0;BY;1;0;0;1;NNNNNN;1;Belarus;Belarus;"Europe (non-EU)"
+3;1;0;32;BE;1;0;0;1;NNNN;1;Belgium;Belgium;Europe
+53;8;0;501;BZ;1;0;0;0;;1;Belize;Belize;"Central America/Antilla"
+54;4;0;229;BJ;1;0;0;0;;1;Benin;Benin;Africa
+55;2;0;0;BM;1;0;0;1;;1;Bermuda;Bermuda;"North America"
+56;3;0;975;BT;1;0;0;1;;1;Bhutan;Bhutan;Asia
+34;6;0;591;BO;1;0;0;1;;1;Bolivia;Bolivia;"South America"
+233;1;0;387;BA;1;0;0;1;;1;"Bosnia and Herzegovina";"Bosnia and Herzegovina";Europe
+57;4;0;267;BW;1;0;0;1;;1;Botswana;Botswana;Africa
+234;5;0;0;BV;1;0;0;1;;1;"Bouvet Island";"Bouvet Island";Oceania
+58;6;0;55;BR;1;0;0;1;NNNNN-NNN;1;Brazil;Brazil;"South America"
+235;5;0;0;IO;1;0;0;1;"LLLL NLL";1;"British Indian Ocean Territory";"British Indian Ocean Territory";Oceania
+59;3;0;673;BN;1;0;0;1;LLNNNN;1;Brunei;Brunei;Asia
+236;1;0;359;BG;1;0;0;1;NNNN;1;Bulgaria;Bulgaria;Europe
+60;4;0;226;BF;1;0;0;1;;1;"Burkina Faso";"Burkina Faso";Africa
+61;3;0;95;MM;1;0;0;1;;1;"Burma (Myanmar)";"Burma (Myanmar)";Asia
+62;4;0;257;BI;1;0;0;1;;1;Burundi;Burundi;Africa
+63;3;0;855;KH;1;0;0;1;NNNNN;1;Cambodia;Cambodia;Asia
+64;4;0;237;CM;1;0;0;1;;1;Cameroon;Cameroon;Africa
+4;2;0;1;CA;1;1;0;1;"LNL NLN";0;Canada;Canada;"North America"
+65;4;0;238;CV;1;0;0;1;NNNN;1;"Cape Verde";"Cape Verde";Africa
+237;8;0;0;KY;1;0;0;1;;1;"Cayman Islands";"Cayman Islands";"Central America/Antilla"
+66;4;0;236;CF;1;0;0;1;;1;"Central African Republic";"Central African Republic";Africa
+67;4;0;235;TD;1;0;0;1;;1;Chad;Chad;Africa
+68;6;0;56;CL;1;0;0;1;NNN-NNNN;1;Chile;Chile;"South America"
+5;3;0;86;CN;1;0;0;1;NNNNNN;1;China;China;Asia
+238;3;0;0;CX;1;0;0;1;;1;"Christmas Island";"Christmas Island";Asia
+239;3;0;0;CC;1;0;0;1;;1;"Cocos (Keeling) Islands";"Cocos (Keeling) Islands";Asia
+69;6;0;57;CO;1;0;0;1;NNNNNN;1;Colombia;Colombia;"South America"
+70;4;0;269;KM;1;0;0;1;;1;Comoros;Comoros;Africa
+71;4;0;242;CD;1;0;0;1;;1;"Congo, Dem. Republic";"Congo, Dem. Republic";Africa
+72;4;0;243;CG;1;0;0;1;;1;"Congo, Republic";"Congo, Republic";Africa
+240;5;0;682;CK;1;0;0;1;;1;"Cook Islands";"Cook Islands";Oceania
+73;8;0;506;CR;1;0;0;1;NNNNN;1;"Costa Rica";"Costa Rica";"Central America/Antilla"
+74;7;0;385;HR;1;0;0;1;NNNNN;1;Croatia;Croatia;"Europe (non-EU)"
+75;8;0;53;CU;1;0;0;1;;1;Cuba;Cuba;"Central America/Antilla"
+76;1;0;357;CY;1;0;0;1;NNNN;1;Cyprus;Cyprus;Europe
+16;1;0;420;CZ;1;0;0;1;"NNN NN";1;"Czech Republic";"Czech Republic";Europe
+20;1;0;45;DK;1;0;0;1;NNNN;1;Denmark;Denmark;Europe
+77;4;0;253;DJ;1;0;0;1;;1;Djibouti;Djibouti;Africa
+78;8;0;0;DM;1;0;0;1;;1;Dominica;Dominica;"Central America/Antilla"
+79;8;0;0;DO;1;0;0;1;;1;"Dominican Republic";"Dominican Republic";"Central America/Antilla"
+80;3;0;670;TL;1;0;0;1;;1;"East Timor";"East Timor";Asia
+81;6;0;593;EC;1;0;0;1;CNNNNNN;1;Ecuador;Ecuador;"South America"
+82;4;0;20;EG;1;0;0;0;;1;Egypt;Egypt;Africa
+83;8;0;503;SV;1;0;0;1;;1;"El Salvador";"El Salvador";"Central America/Antilla"
+84;4;0;240;GQ;1;0;0;1;;1;"Equatorial Guinea";"Equatorial Guinea";Africa
+85;4;0;291;ER;1;0;0;1;;1;Eritrea;Eritrea;Africa
+86;1;0;372;EE;1;0;0;1;NNNNN;1;Estonia;Estonia;Europe
+87;4;0;251;ET;1;0;0;1;;1;Ethiopia;Ethiopia;Africa
+88;8;0;0;FK;1;0;0;1;"LLLL NLL";1;"Falkland Islands";"Falkland Islands";"Central America/Antilla"
+89;7;0;298;FO;1;0;0;1;;1;"Faroe Islands";"Faroe Islands";"Europe (non-EU)"
+90;5;0;679;FJ;1;0;0;1;;1;Fiji;Fiji;Oceania
+7;1;0;358;FI;1;0;0;1;NNNNN;1;Finland;Finland;Europe
+8;1;0;33;FR;1;0;0;1;NNNNN;1;France;France;Europe
+241;6;0;594;GF;1;0;0;1;;1;"French Guiana";"French Guiana";"South America"
+242;5;0;689;PF;1;0;0;1;;1;"French Polynesia";"French Polynesia";Oceania
+243;5;0;0;TF;1;0;0;1;;1;"French Southern Territories";"French Southern Territories";Oceania
+91;4;0;241;GA;1;0;0;1;;1;Gabon;Gabon;Africa
+92;4;0;220;GM;1;0;0;1;;1;Gambia;Gambia;Africa
+93;3;0;995;GE;1;0;0;1;NNNN;1;Georgia;Georgia;Asia
+1;1;0;49;DE;1;0;0;1;NNNNN;1;Germany;Germany;Europe
+94;4;0;233;GH;1;0;0;1;;1;Ghana;Ghana;Africa
+97;7;0;350;GI;1;0;0;1;;1;Gibraltar;Gibraltar;"Europe (non-EU)"
+9;1;0;30;GR;1;0;0;1;NNNNN;1;Greece;Greece;Europe
+96;7;0;299;GL;1;0;0;1;;1;Greenland;Greenland;"Europe (non-EU)"
+95;8;0;0;GD;1;0;0;1;;1;Grenada;Grenada;"Central America/Antilla"
+98;8;0;590;GP;1;0;0;1;;1;Guadeloupe;Guadeloupe;"Central America/Antilla"
+99;5;0;0;GU;1;0;0;1;;1;Guam;Guam;Oceania
+100;8;0;502;GT;1;0;0;1;;1;Guatemala;Guatemala;"Central America/Antilla"
+101;7;0;0;GG;1;0;0;1;"LLN NLL";1;Guernsey;Guernsey;"Europe (non-EU)"
+102;4;0;224;GN;1;0;0;1;;1;Guinea;Guinea;Africa
+103;4;0;245;GW;1;0;0;1;;1;Guinea-Bissau;Guinea-Bissau;Africa
+104;6;0;592;GY;1;0;0;1;;1;Guyana;Guyana;"South America"
+105;8;0;509;HT;1;0;0;1;;1;Haiti;Haiti;"Central America/Antilla"
+106;5;0;0;HM;1;0;0;1;;1;"Heard Island and McDonald Islands";"Heard Island and McDonald Islands";Oceania
+108;8;0;504;HN;1;0;0;1;;1;Honduras;Honduras;"Central America/Antilla"
+22;3;0;852;HK;1;0;0;0;;1;HongKong;HongKong;Asia
+143;1;0;36;HU;1;0;0;1;NNNN;1;Hungary;Hungary;Europe
+109;7;0;354;IS;1;0;0;1;NNN;1;Iceland;Iceland;"Europe (non-EU)"
+110;3;0;91;IN;1;0;0;1;"NNN NNN";1;India;India;Asia
+111;3;0;62;ID;1;1;0;1;NNNNN;1;Indonesia;Indonesia;Asia
+112;3;0;98;IR;1;0;0;1;NNNNN-NNNNN;1;Iran;Iran;Asia
+113;3;0;964;IQ;1;0;0;1;NNNNN;1;Iraq;Iraq;Asia
+26;1;0;353;IE;1;0;0;0;;1;Ireland;Ireland;Europe
+29;3;0;972;IL;1;0;0;1;NNNNN;1;Israel;Israel;Asia
+10;1;0;39;IT;1;1;0;1;NNNNN;1;Italy;Italy;Europe
+32;4;0;225;CI;1;0;0;1;;1;"Ivory Coast";"Ivory Coast";Africa
+115;8;0;0;JM;1;0;0;1;;1;Jamaica;Jamaica;"Central America/Antilla"
+11;3;0;81;JP;1;1;0;1;NNN-NNNN;1;Japan;Japan;Asia
+116;7;0;0;JE;1;0;0;1;"CN NLL";1;Jersey;Jersey;"Europe (non-EU)"
+117;3;0;962;JO;1;0;0;1;;1;Jordan;Jordan;Asia
+118;3;0;7;KZ;1;0;0;1;NNNNNN;1;Kazakhstan;Kazakhstan;Asia
+119;4;0;254;KE;1;0;0;1;;1;Kenya;Kenya;Africa
+120;5;0;686;KI;1;0;0;1;;1;Kiribati;Kiribati;Oceania
+121;3;0;850;KP;1;0;0;1;;1;"Korea, Dem. Republic of";"Korea, Dem. Republic of";Asia
+122;3;0;965;KW;1;0;0;1;;1;Kuwait;Kuwait;Asia
+123;3;0;996;KG;1;0;0;1;;1;Kyrgyzstan;Kyrgyzstan;Asia
+124;3;0;856;LA;1;0;0;1;;1;Laos;Laos;Asia
+125;1;0;371;LV;1;0;0;1;C-NNNN;1;Latvia;Latvia;Europe
+126;3;0;961;LB;1;0;0;1;;1;Lebanon;Lebanon;Asia
+127;4;0;266;LS;1;0;0;1;;1;Lesotho;Lesotho;Africa
+128;4;0;231;LR;1;0;0;1;;1;Liberia;Liberia;Africa
+129;4;0;218;LY;1;0;0;1;;1;Libya;Libya;Africa
+130;1;0;423;LI;1;0;0;1;NNNN;1;Liechtenstein;Liechtenstein;Europe
+131;1;0;370;LT;1;0;0;1;NNNNN;1;Lithuania;Lithuania;Europe
+12;1;0;352;LU;1;0;0;1;NNNN;1;Luxemburg;Luxemburg;Europe
+132;3;0;853;MO;1;0;0;0;;1;Macau;Macau;Asia
+133;7;0;389;MK;1;0;0;1;;1;Macedonia;Macedonia;"Europe (non-EU)"
+134;4;0;261;MG;1;0;0;1;;1;Madagascar;Madagascar;Africa
+135;4;0;265;MW;1;0;0;1;;1;Malawi;Malawi;Africa
+136;3;0;60;MY;1;0;0;1;NNNNN;1;Malaysia;Malaysia;Asia
+137;3;0;960;MV;1;0;0;1;;1;Maldives;Maldives;Asia
+138;4;0;223;ML;1;0;0;1;;1;Mali;Mali;Africa
+139;1;0;356;MT;1;0;0;1;"LLL NNNN";1;Malta;Malta;Europe
+114;7;0;0;IM;1;0;0;1;"CN NLL";1;"Man Island";"Man Island";"Europe (non-EU)"
+140;5;0;692;MH;1;0;0;1;;1;"Marshall Islands";"Marshall Islands";Oceania
+141;8;0;596;MQ;1;0;0;1;;1;Martinique;Martinique;"Central America/Antilla"
+142;4;0;222;MR;1;0;0;1;;1;Mauritania;Mauritania;Africa
+35;4;0;230;MU;1;0;0;1;;1;Mauritius;Mauritius;Africa
+144;4;0;262;YT;1;0;0;1;;1;Mayotte;Mayotte;Africa
+145;2;0;52;MX;1;1;1;1;NNNNN;1;Mexico;Mexico;"North America"
+146;5;0;691;FM;1;0;0;1;;1;Micronesia;Micronesia;Oceania
+147;7;0;373;MD;1;0;0;1;C-NNNN;1;Moldova;Moldova;"Europe (non-EU)"
+148;7;0;377;MC;1;0;0;1;980NN;1;Monaco;Monaco;"Europe (non-EU)"
+149;3;0;976;MN;1;0;0;1;;1;Mongolia;Mongolia;Asia
+150;7;0;382;ME;1;0;0;1;NNNNN;1;Montenegro;Montenegro;"Europe (non-EU)"
+151;8;0;0;MS;1;0;0;1;;1;Montserrat;Montserrat;"Central America/Antilla"
+152;4;0;212;MA;1;0;0;1;NNNNN;1;Morocco;Morocco;Africa
+153;4;0;258;MZ;1;0;0;1;;1;Mozambique;Mozambique;Africa
+154;4;0;264;NA;1;0;0;1;;1;Namibia;Namibia;Africa
+155;5;0;674;NR;1;0;0;1;;1;Nauru;Nauru;Oceania
+156;3;0;977;NP;1;0;0;1;;1;Nepal;Nepal;Asia
+13;1;0;31;NL;1;0;0;1;"NNNN LL";1;Netherlands;Netherlands;Europe
+157;8;0;599;AN;1;0;0;1;;1;"Netherlands Antilles";"Netherlands Antilles";"Central America/Antilla"
+158;5;0;687;NC;1;0;0;1;;1;"New Caledonia";"New Caledonia";Oceania
+27;5;0;64;NZ;1;0;0;1;NNNN;1;"New Zealand";"New Zealand";Oceania
+159;8;0;505;NI;1;0;0;1;NNNNNN;1;Nicaragua;Nicaragua;"Central America/Antilla"
+160;4;0;227;NE;1;0;0;1;;1;Niger;Niger;Africa
+31;4;0;234;NG;1;0;0;1;;1;Nigeria;Nigeria;Africa
+161;5;0;683;NU;1;0;0;1;;1;Niue;Niue;Oceania
+162;5;0;0;NF;1;0;0;1;;1;"Norfolk Island";"Norfolk Island";Oceania
+163;5;0;0;MP;1;0;0;1;;1;"Northern Mariana Islands";"Northern Mariana Islands";Oceania
+23;7;0;47;NO;1;0;0;1;NNNN;1;Norway;Norway;"Europe (non-EU)"
+164;3;0;968;OM;1;0;0;1;;1;Oman;Oman;Asia
+165;3;0;92;PK;1;0;0;1;;1;Pakistan;Pakistan;Asia
+166;5;0;680;PW;1;0;0;1;;1;Palau;Palau;Oceania
+167;3;0;0;PS;1;0;0;1;;1;"Palestinian Territories";"Palestinian Territories";Asia
+168;8;0;507;PA;1;0;0;1;NNNNNN;1;Panama;Panama;"Central America/Antilla"
+169;5;0;675;PG;1;0;0;1;;1;"Papua New Guinea";"Papua New Guinea";Oceania
+170;6;0;595;PY;1;0;0;1;;1;Paraguay;Paraguay;"South America"
+171;6;0;51;PE;1;0;0;1;;1;Peru;Peru;"South America"
+172;3;0;63;PH;1;0;0;1;NNNN;1;Philippines;Philippines;Asia
+173;5;0;0;PN;1;0;0;1;"LLLL NLL";1;Pitcairn;Pitcairn;Oceania
+14;1;0;48;PL;1;0;0;1;NN-NNN;1;Poland;Poland;Europe
+15;1;0;351;PT;1;0;0;1;NNNN-NNN;1;Portugal;Portugal;Europe
+174;8;0;0;PR;1;0;0;1;NNNNN;1;"Puerto Rico";"Puerto Rico";"Central America/Antilla"
+175;3;0;974;QA;1;0;0;1;;1;Qatar;Qatar;Asia
+176;4;0;262;RE;1;0;0;1;;1;"Reunion Island";"Reunion Island";Africa
+36;1;0;40;RO;1;0;0;1;NNNNNN;1;Romania;Romania;Europe
+177;7;0;7;RU;1;0;0;1;NNNNNN;1;"Russian Federation";"Russian Federation";"Europe (non-EU)"
+178;4;0;250;RW;1;0;0;1;;1;Rwanda;Rwanda;Africa
+179;8;0;0;BL;1;0;0;1;;1;"Saint Barthelemy";"Saint Barthelemy";"Central America/Antilla"
+180;8;0;0;KN;1;0;0;1;;1;"Saint Kitts and Nevis";"Saint Kitts and Nevis";"Central America/Antilla"
+181;8;0;0;LC;1;0;0;1;;1;"Saint Lucia";"Saint Lucia";"Central America/Antilla"
+182;8;0;0;MF;1;0;0;1;;1;"Saint Martin";"Saint Martin";"Central America/Antilla"
+183;8;0;508;PM;1;0;0;1;;1;"Saint Pierre and Miquelon";"Saint Pierre and Miquelon";"Central America/Antilla"
+184;8;0;0;VC;1;0;0;1;;1;"Saint Vincent and the Grenadines";"Saint Vincent and the Grenadines";"Central America/Antilla"
+185;5;0;685;WS;1;0;0;1;;1;Samoa;Samoa;Oceania
+186;7;0;378;SM;1;0;0;1;NNNNN;1;"San Marino";"San Marino";"Europe (non-EU)"
+187;4;0;239;ST;1;0;0;1;;1;"São Tomé and Príncipe";"São Tomé and Príncipe";Africa
+188;3;0;966;SA;1;0;0;1;;1;"Saudi Arabia";"Saudi Arabia";Asia
+189;4;0;221;SN;1;0;0;1;;1;Senegal;Senegal;Africa
+190;7;0;381;RS;1;0;0;1;NNNNN;1;Serbia;Serbia;"Europe (non-EU)"
+191;4;0;248;SC;1;0;0;1;;1;Seychelles;Seychelles;Africa
+192;4;0;232;SL;1;0;0;1;;1;"Sierra Leone";"Sierra Leone";Africa
+25;3;0;65;SG;1;0;0;1;NNNNNN;1;Singapore;Singapore;Asia
+37;1;0;421;SK;1;0;0;1;"NNN NN";1;Slovakia;Slovakia;Europe
+193;1;0;386;SI;1;0;0;1;C-NNNN;1;Slovenia;Slovenia;Europe
+194;5;0;677;SB;1;0;0;1;;1;"Solomon Islands";"Solomon Islands";Oceania
+195;4;0;252;SO;1;0;0;1;;1;Somalia;Somalia;Africa
+30;4;0;27;ZA;1;0;0;1;NNNN;1;"South Africa";"South Africa";Africa
+196;8;0;0;GS;1;0;0;1;"LLLL NLL";1;"South Georgia and the South Sandwich Islands";"South Georgia and the South Sandwich Islands";"Central America/Antilla"
+28;3;0;82;KR;1;0;0;1;NNN-NNN;1;"South Korea";"South Korea";Asia
+6;1;0;34;ES;1;0;1;1;NNNNN;1;Spain;Spain;Europe
+197;3;0;94;LK;1;0;0;1;NNNNN;1;"Sri Lanka";"Sri Lanka";Asia
+198;4;0;249;SD;1;0;0;1;;1;Sudan;Sudan;Africa
+199;8;0;597;SR;1;0;0;1;;1;Suriname;Suriname;"Central America/Antilla"
+200;7;0;0;SJ;1;0;0;1;;1;"Svalbard and Jan Mayen";"Svalbard and Jan Mayen";"Europe (non-EU)"
+201;4;0;268;SZ;1;0;0;1;;1;Swaziland;Swaziland;Africa
+18;1;0;46;SE;1;0;0;1;"NNN NN";1;Sweden;Sweden;Europe
+19;7;0;41;CH;1;0;0;1;NNNN;1;Switzerland;Switzerland;"Europe (non-EU)"
+202;3;0;963;SY;1;0;0;1;;1;Syria;Syria;Asia
+203;3;0;886;TW;1;0;0;1;NNNNN;1;Taiwan;Taiwan;Asia
+204;3;0;992;TJ;1;0;0;1;;1;Tajikistan;Tajikistan;Asia
+205;4;0;255;TZ;1;0;0;1;;1;Tanzania;Tanzania;Africa
+206;3;0;66;TH;1;0;0;1;NNNNN;1;Thailand;Thailand;Asia
+33;4;0;228;TG;1;0;0;1;;1;Togo;Togo;Africa
+207;5;0;690;TK;1;0;0;1;;1;Tokelau;Tokelau;Oceania
+208;5;0;676;TO;1;0;0;1;;1;Tonga;Tonga;Oceania
+209;6;0;0;TT;1;0;0;1;;1;"Trinidad and Tobago";"Trinidad and Tobago";"South America"
+210;4;0;216;TN;1;0;0;1;;1;Tunisia;Tunisia;Africa
+211;7;0;90;TR;1;0;0;1;NNNNN;1;Turkey;Turkey;"Europe (non-EU)"
+212;3;0;993;TM;1;0;0;1;;1;Turkmenistan;Turkmenistan;Asia
+213;8;0;0;TC;1;0;0;1;"LLLL NLL";1;"Turks and Caicos Islands";"Turks and Caicos Islands";"Central America/Antilla"
+214;5;0;688;TV;1;0;0;1;;1;Tuvalu;Tuvalu;Oceania
+215;4;0;256;UG;1;0;0;1;;1;Uganda;Uganda;Africa
+216;1;0;380;UA;1;0;0;1;NNNNN;1;Ukraine;Ukraine;Europe
+217;3;0;971;AE;1;0;0;1;;1;"United Arab Emirates";"United Arab Emirates";Asia
+17;1;0;44;GB;1;0;0;1;;1;"United Kingdom";"United Kingdom";Europe
+21;2;0;1;US;1;1;0;1;NNNNN;0;"United States";"United States";"North America"
+218;6;0;598;UY;1;0;0;1;;1;Uruguay;Uruguay;"South America"
+219;3;0;998;UZ;1;0;0;1;;1;Uzbekistan;Uzbekistan;Asia
+220;5;0;678;VU;1;0;0;1;;1;Vanuatu;Vanuatu;Oceania
+107;7;0;379;VA;1;0;0;1;NNNNN;1;"Vatican City State";"Vatican City State";"Europe (non-EU)"
+221;6;0;58;VE;1;0;0;1;;1;Venezuela;Venezuela;"South America"
+222;3;0;84;VN;1;0;0;1;NNNNNN;1;Vietnam;Vietnam;Asia
+223;2;0;0;VG;1;0;0;1;CNNNN;1;"Virgin Islands (British)";"Virgin Islands (British)";"North America"
+224;2;0;0;VI;1;0;0;1;;1;"Virgin Islands (U.S.)";"Virgin Islands (U.S.)";"North America"
+225;5;0;681;WF;1;0;0;1;;1;"Wallis and Futuna";"Wallis and Futuna";Oceania
+226;4;0;0;EH;1;0;0;1;;1;"Western Sahara";"Western Sahara";Africa
+227;3;0;967;YE;1;0;0;1;;1;Yemen;Yemen;Asia
+228;4;0;260;ZM;1;0;0;1;;1;Zambia;Zambia;Africa
+229;4;0;263;ZW;1;0;0;1;;1;Zimbabwe;Zimbabwe;Africa

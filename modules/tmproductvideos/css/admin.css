@@ -1,0 +1,24 @@
+.video-list {
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+.video-list li {
+	border:1px solid #ccc;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	padding:20px 20px;
+	margin-bottom:5px;
+	background:#fff;
+}
+.video-preview {
+	position:relative;
+	z-index:1;
+}
+
+.video-list li.video-item .controls button {
+	display:inline-block;
+	margin-bottom:10px;	
+	margin-left:10px;
+}

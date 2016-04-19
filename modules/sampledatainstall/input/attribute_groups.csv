@@ -1,0 +1,4 @@
+"Atribure Group ID";"Is Color Group";"Group Type";Position;Name;"Public Name"
+1;0;select;0;Size;Size
+2;0;select;1;"Shoes Size";Size
+3;1;color;2;Color;Color

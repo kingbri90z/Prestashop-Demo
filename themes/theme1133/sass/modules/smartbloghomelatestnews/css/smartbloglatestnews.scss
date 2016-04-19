@@ -1,0 +1,44 @@
+@import "../../../_theme_variables";
+
+.blog-image {
+	margin-bottom:15px;
+	a {
+		display:block;
+		@include blog-image;
+		img {
+			@media only screen and (max-width:$screen-xs-max) {
+				width:100%;	
+			}
+		}
+	}
+}
+
+#homepage-blog {
+	.title_block {
+		&:after {
+			display:none;	
+		}
+	}
+	li {
+		margin-bottom:30px;
+		@media (min-width: $screen-md) { // min 991px
+			&.first-in-line {
+				clear: left;
+			}
+		}
+		@media only screen and (min-width:$screen-xs) and (max-width:$screen-xs-max) {
+			width:50%;
+			float:left;	
+		}
+		@media (min-width: $screen-sm) and (max-width: $screen-sm-max) { // min 480px max 991px
+			&.first-item-of-tablet-line {
+				clear: left;
+			}
+		}
+		@media only screen and (max-width: $screen-xs-max) { 
+			&.first-item-of-mobile-line {
+				clear: left;
+			}
+		}
+	}
+}

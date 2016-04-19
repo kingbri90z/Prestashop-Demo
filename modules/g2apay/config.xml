@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>g2apay</name>
+	<displayName><![CDATA[G2A Pay]]></displayName>
+	<version><![CDATA[2.0.0]]></version>
+	<description><![CDATA[Easily integrate 100+ global and local payment methods with all-in-one solution.]]></description>
+	<author><![CDATA[G2A]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

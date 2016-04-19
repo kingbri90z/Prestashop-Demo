@@ -1,0 +1,85 @@
+@import "../../_theme_variables";
+
+#currencies-block-top {
+	padding: 9px 11px 10px 6px;
+	float: right;
+	position: relative;
+	// max 479px												
+	span.firstWord {
+		display: none;
+	}
+	div.current {
+		@include transition (all 0.25s ease);
+		font: 400 11px/15px $font-custom-text;
+		padding: 3px 0;
+		color: $base-body-color;
+		text-transform: uppercase;
+		cursor: pointer;
+		@media (max-width: $screen-xs - 1) {
+			font-size: 10px;
+		}
+		strong {
+			font-weight: 400;
+		}
+		&:hover, &.active {
+			color: $light-text-color;
+			&:after {
+				color: $light-text-color;
+			}
+		}
+		&:after {
+			@include transition (all 0.25s ease);
+			content: "\f107";
+			font-family: $font-icon;
+			font-size: 11px;
+			line-height: 11px;
+			color: $base-body-color;
+			vertical-align: 0;
+			padding-left: 6px;
+		}
+		&.active {
+			&:after {
+				content: "\f106";
+			}
+		}
+		.cur-label {
+			// max 479px
+			@media (max-width: $screen-xs - 1) {
+				display: none;
+			}
+		}
+	}
+	ul {
+		display: none;
+		position: absolute;
+		top: 40px;
+		right: 10px;
+		width: 157px;
+		background: $dark-background;
+		z-index: 2;
+		li {
+			color: $light-text-color;
+			line-height: 35px;
+			font-size: 13px;
+			a,
+			> span {
+				padding: 0 10px 0 12px;
+				display: block;
+				color: $light-text-color;
+			}
+			&.selected, &:hover a {
+				background: #484848;
+			}
+		}
+	}
+}
+
+.lang_es {
+	#currencies-block-top {
+		div.current {
+			@media (max-width: $screen-xs - 1) {
+				font-size: 9px;
+			}
+		}
+	}
+} 

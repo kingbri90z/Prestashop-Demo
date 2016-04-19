@@ -1,0 +1,26 @@
+"Info ID";Text
+1;"<ul><li>
+<div class=""type-text"">
+<h3>Custom Block 1</h3>
+<p><strong>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor</strong></p>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+</div>
+</li>
+<li>
+<div class=""type-text"">
+<p><strong>ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor</strong></p>
+<p>dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+</div>
+</li>
+</ul>"
+2;"<h3>Custom Block 2</h3>
+<ul><li>Lorem ipsum dolor sit amet</li>
+<li>Conse ctetur adipisicing</li>
+<li>Elit sed do eiusmod tempor</li>
+<li>Incididunt ut labore</li>
+<li>Et dolore magna aliqua</li>
+<li>Ut enim ad minim veniam</li>
+<li>Quis nostrud exercitation</li>
+<li>Ullamco laboris nisi</li>
+<li>Ut aliquip ex ea commodo</li>
+</ul>"

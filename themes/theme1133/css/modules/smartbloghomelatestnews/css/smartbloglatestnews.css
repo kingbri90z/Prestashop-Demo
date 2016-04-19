@@ -1,0 +1,25 @@
+.blog-image {
+  margin-bottom: 15px; }
+  .blog-image a {
+    display: block; }
+    @media only screen and (max-width: 767px) {
+      .blog-image a img {
+        width: 100%; } }
+
+#homepage-blog .title_block:after {
+  display: none; }
+#homepage-blog li {
+  margin-bottom: 30px; }
+  @media (min-width: 992px) {
+    #homepage-blog li.first-in-line {
+      clear: left; } }
+  @media only screen and (min-width: 480px) and (max-width: 767px) {
+    #homepage-blog li {
+      width: 50%;
+      float: left; } }
+  @media (min-width: 768px) and (max-width: 991px) {
+    #homepage-blog li.first-item-of-tablet-line {
+      clear: left; } }
+  @media only screen and (max-width: 767px) {
+    #homepage-blog li.first-item-of-mobile-line {
+      clear: left; } }

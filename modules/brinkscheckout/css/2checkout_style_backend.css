@@ -1,0 +1,303 @@
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 300;
+	src: local("Open Sans Light"), local("OpenSans-Light"), url("http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Open Sans"), local("OpenSans"), url("http://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Open Sans Bold"), local("OpenSans-Bold"), url("http://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff") format("woff");
+}
+
+.brinkscheckout *,
+.brinkscheckout *:before,
+.brinkscheckout *:after {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.brinkscheckout#configuration_form *,
+.brinkscheckout#configuration_form *:before,
+.brinkscheckout#configuration_form *:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.brinkscheckout a {
+	color: #00AFF0;
+	text-decoration: underline;
+}
+
+.brinkscheckout #container {
+	width: 100%;
+	font: 400 12px/1.42857 "Open Sans",Helvetica,Arial,sans-serif;
+}
+
+.brinkscheckout #header {
+	background-color: white;
+}
+
+.brinkscheckout .logo {
+	float: left;
+	margin: 10px;
+	padding: 10px 40px;
+	width: 10%;
+}
+
+.brinkscheckout .rightext {
+	border-left: 1px solid #ccc;
+	box-sizing: border-box;
+	color: #008cdd;
+	display: block;
+	float: left;
+	font-size: 18px;
+	line-height: 24px;
+	padding-left: 25px;
+	padding-top: 20px;
+	width: 80%;
+	margin-bottom: 15px;
+}
+
+.brinkscheckout #button {
+	margin-top: 10px;
+	-moz-border-bottom-colors: none;
+	-moz-border-left-colors: none;
+	-moz-border-right-colors: none;
+	-moz-border-top-colors: none;
+	background: linear-gradient(to bottom, #db6f2b 0%, #db6a29 41%, #e54824 58%, #d15d3a 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+	border-color: #dd4a37 #dd4a37 #000;
+	border-image: none;
+	border-radius: 40px;
+	border-style: solid;
+	border-width: 1px;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.35) inset;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	font-weight: bold;
+	height: 1.5em;
+	line-height: 22px;
+	outline: 0 none;
+	padding: 6px;
+	text-shadow: 0 -1px 0 #03609e;
+	vertical-align: middle;
+	white-space: nowrap;
+	width: 140px;
+	word-wrap: normal;
+	text-align: center;
+}
+
+/*
+.brinkscheckout #button:hover{
+	background: linear-gradient(to bottom, #d64d35 0%, #d8a082 41%, #e07f6d 58%, #e88974 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+	border-color: #dd4a37 #dd4a37 #000;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset, 0 1px 3px rgba(0, 0, 0, 0.5);
+	color: #fff;
+}
+*/
+
+.brinkscheckout #button a {
+	text-decoration: none;
+}
+.brinkscheckout #button a:active,
+.brinkscheckout #button a:visited,
+.brinkscheckout #button a:link {
+	color: #fff;
+}
+
+.brinkscheckout .clear {
+	clear: both;
+}
+
+.brinkscheckout .column1 ul, 
+.brinkscheckout .column2 ul {
+	margin-top: 0px;
+	margin-bottom: 8.5px;
+	padding: 0px 15px;
+	list-style: disc inside;
+}
+.brinkscheckout .column1 ul li,
+.brinkscheckout .column2 ul li {
+	margin-bottom: 3px;
+}
+
+.brinkscheckout .column1 ul li,
+.brinkscheckout .column2 ul li,
+.brinkscheckout .column1 p,
+.brinkscheckout .column2 p {
+	color: #535353;
+	font-size: 14px;
+	line-height: 22px;
+	text-shadow: 0 1px 0 #ffffff;
+}
+
+.brinkscheckout .column1 {
+	padding: 0 30px 10px 5px;
+	width: 48%;
+	float: left;
+	display: block;
+}
+
+.brinkscheckout .column2 {
+	float: right;
+	padding: 0 30px 10px 5px;
+	width: 40%;
+	display: block;
+}
+
+.brinkscheckout .column1 h1,
+.brinkscheckout .column2 h1 {
+	color: #008cdd;
+	font-size: 22px;
+	font-weight: normal;
+	line-height: 22px;
+	margin: 0 0 15px;
+	padding: 0;
+	text-shadow: 0 -1px 0 #daf2ff;
+}
+
+.brinkscheckout .column1 span,
+.brinkscheckout .column2 span {
+	font-weight: bold;
+}
+
+.brinkscheckout .column1 ul,
+.brinkscheckout .column2 ul {
+	padding: 0 15px;
+}
+
+.brinkscheckout .rightext p {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.brinkscheckout #content {
+	width: auto;
+	margin-left: 0;
+}
+
+.brinkscheckout .wrapper {
+	background-color: #fff;
+	border: 1px solid #c3d9ef;
+	border-radius: 5px;
+	clear: both;
+	margin: 0 0 15px;
+	overflow: hidden;
+	padding: 25px;
+}
+
+.brinkscheckout #mainbottom {
+}
+
+.brinkscheckout #mainbottom img {
+	margin: 0 auto;
+	display: block;
+	width: auto;
+}
+
+.brinkscheckout #mainbottom .title {
+	color: #008cdd;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 22px;
+	margin: 0 0 15px;
+	padding: 0;
+	text-shadow: 0 -1px 0 #daf2ff;
+	border-top: 1px solid #c3d9ef;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.brinkscheckout #mainbottom h5 {
+	color: #16b0e4;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 8px;
+	padding-bottom: 0;
+}
+
+.brinkscheckout .mainbottomtext {
+	color: #16b0e4;
+	font-size: 14px;
+	line-height: 0;
+	margin: 0 0 10px;
+	padding: 0;
+}
+
+.brinkscheckout .formcontainer {
+	background: #EBEEF5;
+	border: 1px solid #D5D8DE;
+	margin: 40px auto;
+	padding: 0 30px 20px;
+	text-align: center;
+	width: 870px;
+}
+.brinkscheckout .formcontainer h2 {
+	color: #008CDD;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 22px;
+	padding: 0 0 10px;
+	text-shadow: 0px -1px 0px #DAF2FF;
+}
+.brinkscheckout .formcontainer ul,
+.brinkscheckout .formcontainer li,
+.brinkscheckout .formcontainer .form-group,
+.brinkscheckout .formcontainer .submitbtn {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 4px;
+}
+.brinkscheckout .formcontainer ul {
+	margin:0;
+}
+.brinkscheckout .formcontainer input {
+	width: 148px;
+	display: inline-block;
+	height: 27px;
+	padding: 4px 8px;
+	font-size: 12px;
+	line-height: 1.42857;
+}
+.brinkscheckout .formcontainer #button {
+	margin-top:0;
+}
+
+.brinkscheckout .sticker {
+	font-size: 11px;
+	color: #04559d;
+	padding-left: 15px;
+	padding-right: 15px;
+	border: 1px solid #04559d;
+	border-radius: 3px;
+	background: #bde5f8;
+	margin: 0 0 40px;
+}
+
+.brinkscheckout .sticker #button {
+	text-align: center;
+	width: 100px;
+	line-height: 18px;
+	height: 1.2em;
+	margin-bottom: 4px;
+}
+
+.brinkscheckout .sticker img {
+	display: inline-block;
+	margin-bottom: -12px;
+	padding-right: 10px;
+	width: 30px;
+	vertical-align: baseline;
+}

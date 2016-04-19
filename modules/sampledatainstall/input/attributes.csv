@@ -1,0 +1,25 @@
+"Atribure ID";"Attribute Group ID";Color;Position;Name
+5;3;#AAB2BD;0;Grey
+6;3;#CFC4A6;1;Taupe
+7;3;#f5f5dc;2;Beige
+8;3;#ffffff;3;White
+9;3;#faebd7;4;"Off White"
+10;3;#E84C3D;5;Red
+11;3;#434A54;6;Black
+12;3;#C19A6B;7;Camel
+13;3;#F39C11;8;Orange
+14;3;#5D9CEC;9;Blue
+15;3;#A0D468;10;Green
+16;3;#F1C40F;11;Yellow
+17;3;#964B00;12;Brown
+24;3;#FCCACD;13;Pink
+18;2;;0;35
+19;2;;1;36
+20;2;;2;37
+21;2;;3;38
+22;2;;4;39
+23;2;;5;40
+1;1;;0;S
+2;1;;1;M
+3;1;;2;L
+4;1;;3;"One size"

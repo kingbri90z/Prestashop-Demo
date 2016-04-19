@@ -1,0 +1,124 @@
+/* Top hook CSS */
+#htmlcontent_top {
+  overflow: hidden;
+  padding: 60px 0; }
+  #htmlcontent_top ul {
+    margin: 0; }
+    #htmlcontent_top ul li {
+      margin: 0;
+      float: left; }
+      @media (max-width: 1199px) {
+        #htmlcontent_top ul li {
+          width: 50%; } }
+      @media (max-width: 479px) {
+        #htmlcontent_top ul li {
+          width: 100%;
+          margin-bottom: 1px; } }
+      #htmlcontent_top ul li img {
+        max-width: 100%;
+        height: auto;
+        -moz-transition: all 0.45s ease-in;
+        -o-transition: all 0.45s ease-in;
+        -webkit-transition: all 0.45s ease-in;
+        transition: all 0.45s ease-in; }
+      #htmlcontent_top ul li a {
+        text-align: center;
+        -moz-transition: all 0.35s ease-out;
+        -o-transition: all 0.35s ease-out;
+        -webkit-transition: all 0.35s ease-out;
+        transition: all 0.35s ease-out;
+        overflow: hidden;
+        position: relative;
+        display: block;
+        background: #222;
+        background: rgba(0, 0, 0, 0.7); }
+        #htmlcontent_top ul li a .item-html {
+          width: 100%;
+          position: absolute;
+          top: 17%; }
+          @media (max-width: 1199px) {
+            #htmlcontent_top ul li a .item-html {
+              top: 7%; } }
+          @media (max-width: 767px) {
+            #htmlcontent_top ul li a .item-html {
+              top: 19%; } }
+        #htmlcontent_top ul li a h2 {
+          -moz-transition: all 0.35s ease;
+          -o-transition: all 0.35s ease;
+          -webkit-transition: all 0.35s ease;
+          transition: all 0.35s ease;
+          font: 300 60px/60px "Lato", sans-serif;
+          text-transform: uppercase;
+          color: white;
+          margin: 0 0 10px; }
+          @media (max-width: 991px) {
+            #htmlcontent_top ul li a h2 {
+              font-size: 35px;
+              line-height: 35px; } }
+          @media (max-width: 767px) {
+            #htmlcontent_top ul li a h2 {
+              font-size: 28px;
+              line-height: 30px; } }
+          @media (max-width: 479px) {
+            #htmlcontent_top ul li a h2 {
+              line-height: 36px; } }
+        #htmlcontent_top ul li a p {
+          font: 300 12px/22px "Roboto", sans-serif;
+          color: white;
+          padding: 0 15%; }
+          @media (max-width: 991px) {
+            #htmlcontent_top ul li a p {
+              padding: 0 5%; } }
+          @media (max-width: 767px) {
+            #htmlcontent_top ul li a p {
+              display: none; } }
+        #htmlcontent_top ul li a:hover {
+          background: rgba(0, 0, 0, 0.9); }
+          @media (min-width: 1199px) {
+            #htmlcontent_top ul li a:hover img {
+              -moz-transform: scale(1.08, 1.08);
+              -ms-transform: scale(1.08, 1.08);
+              -webkit-transform: scale(1.08, 1.08);
+              transform: scale(1.08, 1.08); }
+            #htmlcontent_top ul li a:hover h2 {
+              -moz-transform: scale(1.1, 1.1);
+              -ms-transform: scale(1.1, 1.1);
+              -webkit-transform: scale(1.1, 1.1);
+              transform: scale(1.1, 1.1); }
+            #htmlcontent_top ul li a:hover p {
+              animation: 300ms linear 0s normal none 1 moveFromBottom;
+              -webkit-animation: 300ms linear 0s normal none 1 moveFromBottom;
+              -moz-animation: 300ms linear 0s normal none 1 moveFromBottom;
+              -o-animation: 300ms linear 0s normal none 1 moveFromBottom;
+              -ms-animation: 300ms linear 0s normal none 1 moveFromBottom; } }
+
+@keyframes moveFromBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(200%); }
+
+  50% {
+    opacity: 0.5;
+    transform: translateY(100%); }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0%); } }
+@-webkit-keyframes moveFromBottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(200%); }
+
+  50% {
+    opacity: 0.5;
+    -webkit-transform: translateY(100%); }
+
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0%); } }
+#htmlcontent_home {
+  padding: 0px 0 50px; }
+
+/* Left hook CSS */
+/* Right hook CSS */
+/* Footer hook CSS */
